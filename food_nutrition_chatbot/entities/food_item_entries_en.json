@@ -1,0 +1,229 @@
+[
+  {
+    "value": "Asparagus",
+    "synonyms": [
+      "Asparagus",
+      "aspargs",
+      "asparagus"
+    ]
+  },
+  {
+    "value": "Bell Pepper",
+    "synonyms": [
+      "Bell peper",
+      "Bell paper",
+      "bell pepper",
+      "bell peper",
+      "capsicum",
+      "Capsicum",
+      "bell paper"
+    ]
+  },
+  {
+    "value": "Iceberg Lettuce",
+    "synonyms": [
+      "Iceberg Lettuce",
+      "lettuce",
+      "lettes",
+      "lettuic",
+      "lettuces",
+      "Lettuce"
+    ]
+  },
+  {
+    "value": "Broccoli",
+    "synonyms": [
+      "Broccoli",
+      "broccoli"
+    ]
+  },
+  {
+    "value": "Carrot",
+    "synonyms": [
+      "Carrot",
+      "carrot"
+    ]
+  },
+  {
+    "value": "Cauliflower",
+    "synonyms": [
+      "Cauliflower",
+      "cauliflower"
+    ]
+  },
+  {
+    "value": "Celery",
+    "synonyms": [
+      "Celery",
+      "celery",
+      "salery",
+      "selery",
+      "Salery",
+      "Selery"
+    ]
+  },
+  {
+    "value": "Cucumber",
+    "synonyms": [
+      "Cucumber",
+      "cucumber"
+    ]
+  },
+  {
+    "value": "Green (Snap) Beans",
+    "synonyms": [
+      "Green (Snap) Beans",
+      "green bean",
+      "green beans",
+      "bean",
+      "beans",
+      "Beans"
+    ]
+  },
+  {
+    "value": "Green Cabbage",
+    "synonyms": [
+      "Green Cabbage",
+      "GreenÊCabbage",
+      "green cabbage",
+      "cabbage",
+      "Cabbage"
+    ]
+  },
+  {
+    "value": "Green Onion",
+    "synonyms": [
+      "Green Onion"
+    ]
+  },
+  {
+    "value": "Leaf Lettuce",
+    "synonyms": [
+      "Leaf Lettuce",
+      "Romaine, Green Leaf Lettuce, Red Leaf Lettuce"
+    ]
+  },
+  {
+    "value": "Mushrooms",
+    "synonyms": [
+      "Mushrooms",
+      "Fungi, Champignon, Toadstools",
+      "Mushroom"
+    ]
+  },
+  {
+    "value": "Onion",
+    "synonyms": [
+      "Onion",
+      "Allium cepa, Shallot, Scallion, Bulb Onion"
+    ]
+  },
+  {
+    "value": "Potato",
+    "synonyms": [
+      "Potato",
+      "Spud, Tubers, Solanum tuberosum"
+    ]
+  },
+  {
+    "value": "Radishes",
+    "synonyms": [
+      "Radishes",
+      "Raphanus sativus, Daikon, Red Radish"
+    ]
+  },
+  {
+    "value": "Summer Squash",
+    "synonyms": [
+      "Summer Squash",
+      "Zucchini, Yellow Squash, Cucurbita pepo"
+    ]
+  },
+  {
+    "value": "Sweet Corn",
+    "synonyms": [
+      "Sweet Corn",
+      "Maize, Zea mays, Corn on the cob"
+    ]
+  },
+  {
+    "value": "Sweet Potato",
+    "synonyms": [
+      "Sweet Potato",
+      "Ipomoea batatas, Yam, Batata"
+    ]
+  },
+  {
+    "value": "Tomato",
+    "synonyms": [
+      "Tomato",
+      "Solanum lycopersicum, Cherry Tomato, Beefsteak Tomato"
+    ]
+  },
+  {
+    "value": "Shrimp",
+    "synonyms": [
+      "Shrimp",
+      "Decapod crustacean, Prawn, Crustacean"
+    ]
+  },
+  {
+    "value": "Swordfish",
+    "synonyms": [
+      "Swordfish",
+      "Xiphias gladius, Broadbill Swordfish, Billfish"
+    ]
+  },
+  {
+    "value": "Tuna",
+    "synonyms": [
+      "Tuna",
+      "Thunnini, Yellowfin Tuna, Albacore"
+    ]
+  },
+  {
+    "value": "Oysters",
+    "synonyms": [
+      "Oysters",
+      "Ostreidae, Pacific Oysters, Bivalve mollusk"
+    ]
+  },
+  {
+    "value": "Lobster",
+    "synonyms": [
+      "Lobster",
+      "Homarus americanus, Crustacean, Shellfish"
+    ]
+  },
+  {
+    "value": "Catfish",
+    "synonyms": [
+      "Catfish",
+      "Ictalurus punctatus, Channel Catfish, Freshwater Fish"
+    ]
+  },
+  {
+    "value": "Watermelon",
+    "synonyms": [
+      "Watermelon",
+      "Citrullus lanatus, Melon, Seedless Watermelon",
+      "Xiguiva"
+    ]
+  },
+  {
+    "value": "Strawberries",
+    "synonyms": [
+      "Strawberries",
+      "Fragaria × ananassa, Berry, Red Fruit"
+    ]
+  },
+  {
+    "value": "beans",
+    "synonyms": [
+      "beans",
+      "bean",
+      "Bean",
+      "Beans"
+    ]
+  }
+]

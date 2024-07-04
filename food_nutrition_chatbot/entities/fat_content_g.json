@@ -1,0 +1,9 @@
+{
+  "id": "f6e752c5-7330-4bde-bea0-5def11dd399d",
+  "name": "fat_content_g",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "value": "Ask.fm",
+    "synonyms": [
+      "Ask.fm",
+      "askfm"
+    ]
+  },
+  {
+    "value": "Facebook",
+    "synonyms": [
+      "facebook",
+      "fb"
+    ]
+  },
+  {
+    "value": "Flickr",
+    "synonyms": [
+      "Flickr"
+    ]
+  },
+  {
+    "value": "Google+",
+    "synonyms": [
+      "google",
+      "google plus",
+      "google+"
+    ]
+  },
+  {
+    "value": "Instagram",
+    "synonyms": [
+      "instagram"
+    ]
+  },
+  {
+    "value": "LinkedIn",
+    "synonyms": [
+      "LinkedIn"
+    ]
+  },
+  {
+    "value": "LiveJournal",
+    "synonyms": [
+      "LiveJournal",
+      "Lj"
+    ]
+  },
+  {
+    "value": "Meetup",
+    "synonyms": [
+      "Meetup"
+    ]
+  },
+  {
+    "value": "MySpace",
+    "synonyms": [
+      "MySpace"
+    ]
+  },
+  {
+    "value": "Pinterest",
+    "synonyms": [
+      "Pinterest"
+    ]
+  },
+  {
+    "value": "Reddit",
+    "synonyms": [
+      "Reddit"
+    ]
+  },
+  {
+    "value": "Tumblr",
+    "synonyms": [
+      "Tumblr"
+    ]
+  },
+  {
+    "value": "Twitter",
+    "synonyms": [
+      "twitter"
+    ]
+  },
+  {
+    "value": "VK",
+    "synonyms": [
+      "InContatto",
+      "VK",
+      "VKontakte"
+    ]
+  },
+  {
+    "value": "Vine",
+    "synonyms": [
+      "Vine"
+    ]
+  },
+  {
+    "value": "YouTube",
+    "synonyms": [
+      "YouTube"
+    ]
+  }
+]
