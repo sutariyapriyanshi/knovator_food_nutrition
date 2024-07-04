@@ -1,0 +1,6 @@
+mysql-connector-python
+fastapi[all]
+pydantic
+numpy
+pandas
+
