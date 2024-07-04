@@ -1,0 +1,71 @@
+[
+  {
+    "id": "70ba63d3-2b6d-4334-b4bd-41a51941c262",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "asparagus",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": " have any fat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b07c13f2-9a3d-4ce7-aebb-fea2f1915522",
+    "data": [
+      {
+        "text": "Tell me the fat percentage in a ",
+        "userDefined": false
+      },
+      {
+        "text": "bell pepper",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97014187-d223-4e82-850b-dfb4a5e22317",
+    "data": [
+      {
+        "text": "What is the fat content of ",
+        "userDefined": false
+      },
+      {
+        "text": "cauliflower",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

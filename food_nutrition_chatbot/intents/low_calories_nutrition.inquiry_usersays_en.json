@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1321c58d-464e-470c-a5f1-235dd1e269bf",
+    "data": [
+      {
+        "text": "What are some filling, low-calorie options for my next salad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70b73dd2-7a81-4a96-a772-c6c3fd1f02c1",
+    "data": [
+      {
+        "text": "Which vegetables can help me manage my weight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16d3b336-a216-457f-b104-0b9ea49e81a4",
+    "data": [
+      {
+        "text": "I\u0027m looking for veggies to add to my diet that ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": " low in ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52176d96-31c1-404e-82ac-c01296e91538",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": "-calorie ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetables",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "15c79ff1-02be-4422-80b5-56dcb500e2f1",
+    "data": [
+      {
+        "text": "I\u0027d like to know which vegetables can give me a good dose of essential vitamins.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afeb35b1-9d96-4065-8a78-4e26899d7b3e",
+    "data": [
+      {
+        "text": "Which vegetables are packed with vitamins and minerals to boost my health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d966466-874f-43bc-951b-dff46e798f81",
+    "data": [
+      {
+        "text": "I\u0027m looking for vegetables that have a good source of vitamin, like vitamin A or C.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b58834e6-c7b9-4ba0-9cf9-ea3487bb4c15",
+    "data": [
+      {
+        "text": "Which vegetables are high in vitamins?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

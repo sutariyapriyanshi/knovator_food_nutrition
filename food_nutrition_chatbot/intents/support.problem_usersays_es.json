@@ -1,0 +1,279 @@
+[
+  {
+    "id": "3fa86307-4322-4e3e-a618-5b6213994292",
+    "data": [
+      {
+        "text": "quiero reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9a916dd0-e1d5-4f9e-80ac-47ad4ba1605c",
+    "data": [
+      {
+        "text": "hay un problema que reportar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cf97b6b8-1a63-42a9-8507-63665fa204af",
+    "data": [
+      {
+        "text": "vamos a reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de217cfb-84a4-474a-b0f8-476877a9d177",
+    "data": [
+      {
+        "text": "encontré un error cómo lo puedo enviar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7df5d618-e1d7-4863-b672-371cb4ce681b",
+    "data": [
+      {
+        "text": "tengo un problema ",
+        "userDefined": false
+      },
+      {
+        "text": "la activación no funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7f5f54aa-dc8d-42be-80d2-162dc92e8f29",
+    "data": [
+      {
+        "text": "informar del problema a los programadores ",
+        "userDefined": false
+      },
+      {
+        "text": "no me funciona nada",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1aac710b-ff0d-4c43-8dd6-71861479aff1",
+    "data": [
+      {
+        "text": "debo reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8ad99305-c71b-46a0-ae35-9de301104158",
+    "data": [
+      {
+        "text": "reportaremos un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c8966e3c-4ac0-465e-bb82-5ccab3a7234f",
+    "data": [
+      {
+        "text": "informar de un problema ",
+        "userDefined": false
+      },
+      {
+        "text": "no funciona el agente",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0b30eae-e3b2-4465-a041-b57324917f39",
+    "data": [
+      {
+        "text": "algo está mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c961a6bd-b4df-46f7-afa6-e4cf60aaf088",
+    "data": [
+      {
+        "text": "alguna cosa está mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fa12ef8b-1ec3-47e5-89d5-a7fc357bc1b7",
+    "data": [
+      {
+        "text": "no está funcionando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8ea50a0e-f530-44d2-a482-64ac9ba9f4d9",
+    "data": [
+      {
+        "text": "necesito reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "469f6d61-08e1-40a0-940a-d22c35ae553a",
+    "data": [
+      {
+        "text": "esto no está funcionando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d9a6fd24-f58d-468b-bccf-9320ea691f67",
+    "data": [
+      {
+        "text": "tengo un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b2faca77-b847-42b4-b9f5-04e089e76eaf",
+    "data": [
+      {
+        "text": "informe de error ",
+        "userDefined": false
+      },
+      {
+        "text": "no se descarga la documentación",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c4ff76d-28eb-4120-b782-61b090dcca2b",
+    "data": [
+      {
+        "text": "informar de un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ff67d7d9-567e-4b61-a70d-a3f007e6e014",
+    "data": [
+      {
+        "text": "quisiera reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "26351603-5755-44b6-97cb-ca551873ef99",
+    "data": [
+      {
+        "text": "hay un error ",
+        "userDefined": false
+      },
+      {
+        "text": "no puedo descargar documentos",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

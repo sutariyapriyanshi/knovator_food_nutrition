@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3d26a5e8-51e6-42a2-bcc0-ca2a417ee7c0",
+    "data": [
+      {
+        "text": "デベロッパーの住所をお知らせください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "723b314b-0d58-42f0-92ae-2b8320463558",
+    "data": [
+      {
+        "text": "デベロッパーの勤務先はどこですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "da5407f2-bde4-4908-ab64-8dee69443e7c",
+    "data": [
+      {
+        "text": "デベロッパーの住所を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "0b2e377d-8fc4-43cb-bafd-17d13947929c",
+    "data": [
+      {
+        "text": "デベロッパーのオフィスの場所を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "03081e7d-ecac-4a99-bfad-4bde77b456d4",
+    "data": [
+      {
+        "text": "あなたの会社の住所が必要です",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "93220769-0541-4163-b363-018a74ea3e98",
+    "data": [
+      {
+        "text": "デベロッパーの住所を提供してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "0e6fc841-580f-4916-8689-180fda1a9f11",
+    "data": [
+      {
+        "text": "デベロッパーのオフィスの住所",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9302919b-c8dd-4e78-80f7-b4b7e0c9c6ab",
+    "data": [
+      {
+        "text": "デベロッパーの住所を教えていただけますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1c021fc8-4826-4786-87dc-b7e19f1a1abf",
+    "data": [
+      {
+        "text": "あなたの会社の本社がある場所を知りたいのですが",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8a21429e-17eb-404e-b64f-d2f964a919d3",
+    "data": [
+      {
+        "text": "あなたの会社の住所はどこで見つけられますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

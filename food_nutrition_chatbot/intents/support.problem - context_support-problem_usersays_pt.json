@@ -1,0 +1,192 @@
+[
+  {
+    "id": "e90d5a73-b164-4584-bae2-3a8fc0558d30",
+    "data": [
+      {
+        "text": "adicione que ",
+        "userDefined": false
+      },
+      {
+        "text": "não funciona offline",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "1fd1551c-b130-4c26-81d4-a739b606a609",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "a identificação de chamadas não está a funcionar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "daacabfb-b6ef-4e88-8fa1-0825f848cf6e",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "com o microfone também",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "d98806eb-05fb-4a71-a924-e2769643a7d3",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone não está a funcionar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "e0b4ae82-bd62-46b2-8277-be4862b077cc",
+    "data": [
+      {
+        "text": "e o ",
+        "userDefined": false
+      },
+      {
+        "text": "microfone também não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "47449199-8bfc-4e06-a576-d67e440a2118",
+    "data": [
+      {
+        "text": "adicione que ",
+        "userDefined": false
+      },
+      {
+        "text": "preciso de um modo offline",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "ae860a7d-5b39-4688-80e5-ad48e3219069",
+    "data": [
+      {
+        "text": "também que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "3580c143-2216-4914-9fec-f6d4e3c4fab3",
+    "data": [
+      {
+        "text": "e também que ",
+        "userDefined": false
+      },
+      {
+        "text": "funciona apenas online",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "5f7a7eb3-354d-4644-9bee-ea7a47a1260c",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "não há modo offline",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "68a25ad7-e264-4c9d-88b7-c50c777e0c23",
+    "data": [
+      {
+        "text": "o ",
+        "userDefined": false
+      },
+      {
+        "text": "microfone também",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  }
+]

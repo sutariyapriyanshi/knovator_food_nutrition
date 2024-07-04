@@ -1,0 +1,190 @@
+[
+  {
+    "id": "8e9a437c-42bc-457d-88f9-3c85e7963b58",
+    "data": [
+      {
+        "text": "tienen ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cuenta en ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6401201f-9f6e-4e64-a05a-bd5b3781f368",
+    "data": [
+      {
+        "text": "y su ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5ad0b315-3348-46ef-aef1-201c201e004a",
+    "data": [
+      {
+        "text": "y su ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": " también",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "41b1e10f-a9bf-4a6a-a631-9b3be642c4a0",
+    "data": [
+      {
+        "text": "dame su ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e0f27091-457b-4a94-a26c-91f230b64398",
+    "data": [
+      {
+        "text": "quisiera ponerme en contacto con ellos por ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "abe979bb-c1f2-43d8-9798-d213f56a8722",
+    "data": [
+      {
+        "text": "están en ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ac88bf3a-b753-46cd-82dc-d631d9141d8f",
+    "data": [
+      {
+        "text": "su ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "317f90e7-945c-4f4c-8ac2-68e8b34803fb",
+    "data": [
+      {
+        "text": "cómo acceder a su ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

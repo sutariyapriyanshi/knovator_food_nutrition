@@ -1,0 +1,167 @@
+[
+  {
+    "id": "8b16edd1-94f2-4b36-999d-3c8ed17410c0",
+    "data": [
+      {
+        "text": "segnala il bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "37ccffbb-5df0-447c-9006-4f096977ce9e",
+    "data": [
+      {
+        "text": "segnala bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "807499b6-f245-469b-9eaf-7db33c7ae9da",
+    "data": [
+      {
+        "text": "ho un problema con l\u0027app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8ca597d3-f696-48e2-b145-4dea6907982f",
+    "data": [
+      {
+        "text": "bug non funziona niente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "62bd2ab6-218a-4867-bb21-442c91455e60",
+    "data": [
+      {
+        "text": "problema con ",
+        "userDefined": false
+      },
+      {
+        "text": "microfono",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "823dca32-9013-4c88-9743-5f3d09177612",
+    "data": [
+      {
+        "text": "bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0e25c5ff-c1fa-41c6-bd93-8a17c152d781",
+    "data": [
+      {
+        "text": "segnala bug ",
+        "userDefined": false
+      },
+      {
+        "text": "non funziona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a870a908-9903-44d0-b088-d7effaacfcc9",
+    "data": [
+      {
+        "text": "il ",
+        "userDefined": false
+      },
+      {
+        "text": "microfono",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " ha un bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f7e13c1c-8ee5-4021-b31d-b881c9a8ac8b",
+    "data": [
+      {
+        "text": "c\u0027è un bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e34f14f-d269-4a8b-8a9d-7b9c19037362",
+    "data": [
+      {
+        "text": "ho un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b820c244-a943-4787-b4ed-3b41bbbb1e39",
+    "data": [
+      {
+        "text": "problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

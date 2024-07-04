@@ -1,0 +1,132 @@
+[
+  {
+    "id": "01776c7d-ba4b-466d-aed7-268ef849f84e",
+    "data": [
+      {
+        "text": "デベロッパーに連絡する方法",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9b80da3f-73e5-416f-90a3-2d07105476cc",
+    "data": [
+      {
+        "text": "デベロッパー向けの連絡先情報",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "28a0ec99-3a81-460d-813b-075f53b16767",
+    "data": [
+      {
+        "text": "デベロッパーの連絡先を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4f5e69eb-ac80-4a39-b7da-3f4e08846c65",
+    "data": [
+      {
+        "text": "作成者に連絡したいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3b82ce30-b199-4d7c-a50b-59b4c8c9a91b",
+    "data": [
+      {
+        "text": "デベロッパーに連絡するにはどうすればよいですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "13e21d2a-03bd-4142-89c9-ea20a35f88c1",
+    "data": [
+      {
+        "text": "デベロッパーに連絡してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d2cabed7-0ef6-47e9-a0c3-90bb6a44d707",
+    "data": [
+      {
+        "text": "あなたの連絡先情報を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "361b59ec-0837-46a6-9644-09e021eed70d",
+    "data": [
+      {
+        "text": "作成者の連絡先を見つけてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5ce4571c-ba90-4e6f-ab5f-1101cb4a1849",
+    "data": [
+      {
+        "text": "連絡先情報はどうなっていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "34707564-1a67-4371-a6c9-eeed60555026",
+    "data": [
+      {
+        "text": "作成者に連絡してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

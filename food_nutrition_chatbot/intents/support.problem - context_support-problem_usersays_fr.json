@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0afc9510-137b-4667-b1c1-46ea69c7b8ac",
+    "data": [
+      {
+        "text": "et que ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne fonctionne pas bien",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fe7be809-5c00-428c-989a-5815ed25161c",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "le microphone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2d74c5c9-d46f-4e3e-923f-cf6b04002753",
+    "data": [
+      {
+        "text": "et qu\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "il y a des problèmes avec ton micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f7e2f52a-30d7-4919-9b2c-0e58849c56a1",
+    "data": [
+      {
+        "text": "et que ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne fonctionne pas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f08ff634-352e-4f51-a737-f6138befbc9e",
+    "data": [
+      {
+        "text": "le micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " également",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "42e1c7e8-1556-4749-8d29-cd277aceb6b7",
+    "data": [
+      {
+        "text": "le microphone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0698ec1b-1b4e-4e15-b866-7fa04f6e956a",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fbba9453-834c-44f6-9549-f859e2f12019",
+    "data": [
+      {
+        "text": "et",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne fonctionne pas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

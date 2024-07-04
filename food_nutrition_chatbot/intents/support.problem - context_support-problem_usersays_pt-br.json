@@ -1,0 +1,192 @@
+[
+  {
+    "id": "bcbb88ab-a349-4a9c-aff6-5f18aea1523b",
+    "data": [
+      {
+        "text": "assim como ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5eee25ff-abb2-4400-b65e-df68d7539e1c",
+    "data": [
+      {
+        "text": "acrescentar que ",
+        "userDefined": false
+      },
+      {
+        "text": "ele não funciona off-line",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54d8f3e1-2f16-406c-b39a-3821a368a6e5",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone também",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ef93f33-027b-4fc7-98f4-ac31b3c60898",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone não está funcionando",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a489ff1-9ad6-43ae-8f27-214ee7d20ab5",
+    "data": [
+      {
+        "text": "e ele também ",
+        "userDefined": false
+      },
+      {
+        "text": "só funciona on-line",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e6b0121-b57a-4f88-9fba-f540262e9dec",
+    "data": [
+      {
+        "text": "acrescentar que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu preciso de um modo off-line",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9973ebe1-5f85-4dd5-aeaa-f7358e08baef",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "a identificação de chamadas não está funcionando",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8822772b-dcdf-451f-b53b-2f8dc79d61b8",
+    "data": [
+      {
+        "text": "e que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone também não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d9dd5c7-2dae-4ff1-8dd4-74be3e6bc102",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "nenhum modo off-line",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28fbb143-31f9-41d7-9ff3-fbbb741dc8d2",
+    "data": [
+      {
+        "text": "e ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone também não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

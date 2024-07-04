@@ -1,0 +1,176 @@
+[
+  {
+    "id": "374ac178-452a-4605-ba62-c55d8b1d5fd3",
+    "data": [
+      {
+        "text": "マイクを使う場合も同様です",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "165e564e-5491-4c6c-9411-fda0a61ddb51",
+    "data": [
+      {
+        "text": "マイクが機能していません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "2fcad764-12b0-4306-97bf-9de19d49aaff",
+    "data": [
+      {
+        "text": "マイクも同様です",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d9aa6933-1e61-4f3e-8aed-1ce69db4e40b",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "マイクも機能しません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "94fe0f5b-f443-4218-92b8-a466fa9adcb6",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "発信者番号が機能していません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e1b2d10d-20c2-4efe-8d0e-228eac1fd6b3",
+    "data": [
+      {
+        "text": "マイクも機能しません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "db232172-316d-4221-a535-33bacde04822",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "オフラインモードになりません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9c8ce78e-ddb5-41c3-9c64-e1ef3ff69b05",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "オンラインでしか機能しません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6d8862c9-310d-4658-ae10-3c68ad2d3f72",
+    "data": [
+      {
+        "text": "オフラインで機能できない",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "ことを追加してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "0752b452-ee72-4d2f-942c-726a5c1a2694",
+    "data": [
+      {
+        "text": "オフラインモードが必要である",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "ことを追加してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "9bbd2b98-5b04-4a1e-9267-776e699f3ac1",
+    "data": [
+      {
+        "text": "Calcium in ",
+        "userDefined": false
+      },
+      {
+        "text": "green beans",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "164e95fb-4155-434f-bfaf-06ce8c1e30b0",
+    "data": [
+      {
+        "text": "How much potassium is in ",
+        "userDefined": false
+      },
+      {
+        "text": "bell pepper",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0341d529-9d7d-4416-b8ed-4854e6ba110b",
+    "data": [
+      {
+        "text": "Sodium content in a ",
+        "userDefined": false
+      },
+      {
+        "text": "cucumber",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

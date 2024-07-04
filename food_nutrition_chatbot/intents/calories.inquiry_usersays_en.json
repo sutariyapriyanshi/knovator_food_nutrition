@@ -1,0 +1,77 @@
+[
+  {
+    "id": "6f977e0f-52c7-4310-9a98-0a56275f1405",
+    "data": [
+      {
+        "text": "What are the calories in a ",
+        "userDefined": false
+      },
+      {
+        "text": "carrot",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb065979-0a88-478f-9fc0-5e84d68a8c78",
+    "data": [
+      {
+        "text": "Calories in ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "beans",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ccc61eb-bf7c-4bc6-b39d-6772ee8c0744",
+    "data": [
+      {
+        "text": "How many calories does a ",
+        "userDefined": false
+      },
+      {
+        "text": "cucumber",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": " have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

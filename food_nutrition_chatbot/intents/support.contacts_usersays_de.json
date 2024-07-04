@@ -1,0 +1,106 @@
+[
+  {
+    "id": "edf3b0bf-1234-4723-a07c-f7c2812e1ae5",
+    "data": [
+      {
+        "text": "wie sind deine Kontaktdaten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "72fe6ad4-7888-461e-9894-e33551d2be03",
+    "data": [
+      {
+        "text": "Kontakt-Informationen von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "57e1596a-7627-45cd-aa64-35525557e8f7",
+    "data": [
+      {
+        "text": "wie soll ich deine Entwickler kontaktieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "283c735b-b7ea-47a1-83ef-1e786b53b671",
+    "data": [
+      {
+        "text": "wie kann ich deine Entwickler kontaktieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2dfa58fe-7d81-46ff-bbb7-4fc79bbc0a98",
+    "data": [
+      {
+        "text": "deine Entwickler kontaktieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "73c9adc3-ce0f-4432-8317-6bdf4341f7ff",
+    "data": [
+      {
+        "text": "finde die Kontaktinformationen von deinem Entwickler heraus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "848d4673-ef17-40c1-8f36-037aaa305af2",
+    "data": [
+      {
+        "text": "ich möchte deine Entwickler kontaktieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3ab10c9a-b4a9-4eb7-9497-8a613131dd43",
+    "data": [
+      {
+        "text": "wie kann ich mit deinem Entwickler Kontakt aufnehmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

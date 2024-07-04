@@ -1,0 +1,93 @@
+[
+  {
+    "id": "81c0549d-ad24-4913-971a-20fa460f0381",
+    "data": [
+      {
+        "text": "It doesn\u0027t help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68ca5367-922e-464b-94a6-5c6e48b4d640",
+    "data": [
+      {
+        "text": "It doesn\u0027t help me, I want to ask a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfdc2635-34bb-4434-b17d-48103f52d170",
+    "data": [
+      {
+        "text": "can someone from a real team help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1b40f7c-40d7-48a2-b2b1-80eedfacb623",
+    "data": [
+      {
+        "text": "connect me to support team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d20e38-fbba-46bf-bca6-35a1a3d111e1",
+    "data": [
+      {
+        "text": "chat with a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "640d1c2a-43b2-4cae-83b7-aadd455ae920",
+    "data": [
+      {
+        "text": "connect me with a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c95d883c-238a-4043-bff5-f2077b0d6294",
+    "data": [
+      {
+        "text": "can I talk to a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

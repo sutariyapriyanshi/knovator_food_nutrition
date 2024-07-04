@@ -1,0 +1,272 @@
+[
+  {
+    "id": "9a7eb4aa-68d6-4672-830f-1ed07e9df4f9",
+    "data": [
+      {
+        "text": "и также ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b811dea7-c2c1-4e54-9038-680f6b4d9456",
+    "data": [
+      {
+        "text": "как насчёт ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттера",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fc0addd1-32db-445e-909c-925a36ed2b21",
+    "data": [
+      {
+        "text": "твой ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграм",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5824c06d-b797-4ae5-b0f1-8d9136b5801d",
+    "data": [
+      {
+        "text": "твой ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттер",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "05505c01-0192-49d2-a2e5-12a7e345d3e1",
+    "data": [
+      {
+        "text": "мне нужна страница ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bb417b63-9e18-4969-935f-6910198ec723",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": " страница",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4ca9ad2e-2b17-4e39-98a8-a07894e42b9b",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграм",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "eea94029-c562-45ec-95c7-d5e61c7ebb03",
+    "data": [
+      {
+        "text": "также ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттер",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "53ae1ffa-4f88-477c-928b-7a09e69eda9d",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттер",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9ae33719-c792-4e08-8b6d-6400f47b56cc",
+    "data": [
+      {
+        "text": "что насчёт страницы в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "724b59af-2f96-43d8-8ea5-a5991c0b4962",
+    "data": [
+      {
+        "text": "и ещё ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграм",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7348c52-ab59-4a45-b6fb-4ea03cd30dc8",
+    "data": [
+      {
+        "text": "ещё ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2f245ebe-fe50-4415-8946-c0f15fbd8765",
+    "data": [
+      {
+        "text": "у них есть страничка в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбуке",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "65ca5407-480b-4e93-909f-e7b0efa0df2d",
+    "data": [
+      {
+        "text": "и страничка в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

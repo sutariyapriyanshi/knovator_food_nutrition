@@ -1,0 +1,269 @@
+[
+  {
+    "id": "7731f01e-2609-4b11-94cb-6de9a37b423f",
+    "data": [
+      {
+        "text": "problèmes avec ton appli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "490d93ae-b172-41a0-8a2c-fbd003b25cd0",
+    "data": [
+      {
+        "text": "je voudrais signaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "78e70b85-b79d-47f1-a7f9-d001aba396eb",
+    "data": [
+      {
+        "text": "je veux signaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bug à tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1c840032-0060-4787-8a9c-ce412b148ae9",
+    "data": [
+      {
+        "text": "signaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": true
+      },
+      {
+        "text": " bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "855aa507-b015-4eb2-85f2-418a2c23404b",
+    "data": [
+      {
+        "text": "j",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avec",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0c4266cb-10e5-4705-b8ef-3e41bac1a8a0",
+    "data": [
+      {
+        "text": "j\u0027ai des problèmes avec ton application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3ce0b6e5-9987-4f0b-8f38-5ef7addd1e67",
+    "data": [
+      {
+        "text": "signale un bug que ",
+        "userDefined": false
+      },
+      {
+        "text": "ça ne marche pas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5f795fef-9035-4a31-b479-49f3453f756e",
+    "data": [
+      {
+        "text": "comment faire pour signaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0948cfed-e1a7-4c49-a0ac-e9a1fa4f5e86",
+    "data": [
+      {
+        "text": "signale un bug ",
+        "userDefined": false
+      },
+      {
+        "text": "ça ne marche pas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "be5955df-9894-4ba7-bf5c-fce073be6ed9",
+    "data": [
+      {
+        "text": "problème ",
+        "userDefined": false
+      },
+      {
+        "text": "avec",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bc73e0ef-e917-4199-bf63-758b365a5132",
+    "data": [
+      {
+        "text": "j\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " bug que faire pour le signaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

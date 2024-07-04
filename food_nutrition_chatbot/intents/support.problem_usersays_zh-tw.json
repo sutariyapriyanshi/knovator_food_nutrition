@@ -1,0 +1,413 @@
+[
+  {
+    "id": "d4af5267-92e4-48f9-ba9d-00b7ae49ccab",
+    "data": [
+      {
+        "text": "告訴你的開發者有個臭蟲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "c1e765bb-1c48-4e2b-b4d3-099fca38860c",
+    "data": [
+      {
+        "text": "將錯誤信息發送給開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a34823d8-03b2-475e-bce4-9157d965cb0c",
+    "data": [
+      {
+        "text": "我需要報告一個錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9fd37883-2fa1-4499-9ae9-46111c3a4112",
+    "data": [
+      {
+        "text": "告訴你的開發員",
+        "userDefined": false
+      },
+      {
+        "text": "我有麥克風的問題",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b4a85c06-c486-4ac2-bddb-9bc242e9f4e2",
+    "data": [
+      {
+        "text": "發送錯誤報告",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "cbc944fe-4075-4ea8-a5bd-63f1c9e92908",
+    "data": [
+      {
+        "text": "我有",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "的問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "25a891a4-8eb4-4e56-b0b9-e8f86745c001",
+    "data": [
+      {
+        "text": "我想向你的開發人員顯示錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "0236cefe-2395-419a-b911-d9ce536a7807",
+    "data": [
+      {
+        "text": "你犯了很多錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "99e3788e-6aee-4950-8704-c73b5a252599",
+    "data": [
+      {
+        "text": "告訴開發人員我有了關錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a8219fea-3f16-4bea-9c4a-983e2ac5876a",
+    "data": [
+      {
+        "text": "我發現了錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "01646376-4b5c-4ba1-b2e5-6fa8e6ad8ea2",
+    "data": [
+      {
+        "text": "我需要報告你的錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "5723e9df-8060-461b-abca-b020e437d045",
+    "data": [
+      {
+        "text": "報告",
+        "userDefined": false
+      },
+      {
+        "text": "我有問題",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3533142c-aa40-47b0-8ef7-594439e272b1",
+    "data": [
+      {
+        "text": "發送有關你的問題的報告",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "478597b8-0033-4511-b76c-8585eb93d36e",
+    "data": [
+      {
+        "text": "向你的創建者發送錯誤報告",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "67c68553-f605-4ed3-8baf-97842d0b7e8c",
+    "data": [
+      {
+        "text": "向開發人員報告錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "82a980c0-6659-4539-8a79-337ecae17281",
+    "data": [
+      {
+        "text": "有了一個臭蟲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "979198e9-34c5-4092-b012-97f348e4d6cd",
+    "data": [
+      {
+        "text": "你能幫我解決問題嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "d3729c86-1114-4ef9-81e1-e6082c318788",
+    "data": [
+      {
+        "text": "告訴你的開發者他們應該解決這個問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "c81de7c6-8419-4b13-b224-a6a4c9a064da",
+    "data": [
+      {
+        "text": "我需要報告一下我發現的問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "6f793e02-50d6-41ae-b1a1-0f65bbd0a8a8",
+    "data": [
+      {
+        "text": "向你的開發人員發送問題報告",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "391ba875-6e4a-43a6-9864-4798b4cb4fe5",
+    "data": [
+      {
+        "text": "告訴你的開發者他們應該修複你",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "ec5165d5-9934-4428-9d05-2966991044ad",
+    "data": [
+      {
+        "text": "報告錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "50f5b1c8-08de-4412-9155-a1d6d654f46e",
+    "data": [
+      {
+        "text": "我有關于你的問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "25fca262-9444-46ba-80ad-d5dea68f6592",
+    "data": [
+      {
+        "text": "你理解了我的問題沒有",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8fd336d1-a188-45ac-9d01-aa495cc29522",
+    "data": [
+      {
+        "text": "向開發人員發送問題報告",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f72e0e73-4534-4c9d-a82f-3d94da9bfb54",
+    "data": [
+      {
+        "text": "你有臭蟲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b938c8c9-883e-47d8-bb59-77137f329dca",
+    "data": [
+      {
+        "text": "向你的開發人員發送錯誤報告",
+        "userDefined": false
+      },
+      {
+        "text": "語音激活不起作用",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "44efde44-89f4-4c84-9afa-87ac5fe4df52",
+    "data": [
+      {
+        "text": "告訴你的開發者他們應該修複錯誤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "bcff54eb-467d-4a9a-8b8a-8623af7c7c27",
+    "data": [
+      {
+        "text": "報告錯誤：",
+        "userDefined": false
+      },
+      {
+        "text": "無法正常運行！",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

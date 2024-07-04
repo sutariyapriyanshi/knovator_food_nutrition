@@ -1,0 +1,179 @@
+[
+  {
+    "id": "9a945089-fb3b-4fee-8d49-397c6cf72797",
+    "data": [
+      {
+        "text": "Problembericht ",
+        "userDefined": false
+      },
+      {
+        "text": "die app funktioniert nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f824472f-e07f-4946-82b9-91f762e22544",
+    "data": [
+      {
+        "text": "Programmfehler melden ",
+        "userDefined": false
+      },
+      {
+        "text": "es funktioniert nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ff55efb6-45eb-4d38-8654-85e2c7557571",
+    "data": [
+      {
+        "text": "ich möchte ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Problem melden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8264278b-31b4-4ddc-874a-32feecbf628c",
+    "data": [
+      {
+        "text": "Problem melden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "950531e3-b2a1-4aec-b0ff-d11d9c2058a0",
+    "data": [
+      {
+        "text": "Problembericht ",
+        "userDefined": false
+      },
+      {
+        "text": "senden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3af1b66c-1cec-4155-96fc-6d6ac807167a",
+    "data": [
+      {
+        "text": "einen Problembericht ",
+        "userDefined": false
+      },
+      {
+        "text": "senden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5243a4db-8b7f-4edd-b191-8698827ebe7b",
+    "data": [
+      {
+        "text": "ich habe ein Problem: ",
+        "userDefined": false
+      },
+      {
+        "text": "die App ist teuer",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "033ae414-efb0-44e3-a8ba-523fdea7ec14",
+    "data": [
+      {
+        "text": "ein Problem mit deiner App",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9927ee2b-3526-4d09-91b2-ee1946d92dec",
+    "data": [
+      {
+        "text": "ich habe ein Bug gefunden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f315af0c-9607-473f-98b9-e276f0586ebb",
+    "data": [
+      {
+        "text": "ich habe ein Problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "248a5892-8da5-44e7-8be6-ff96eb9d5ed4",
+    "data": [
+      {
+        "text": "sende einen Problembericht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

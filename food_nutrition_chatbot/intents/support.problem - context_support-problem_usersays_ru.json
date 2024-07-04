@@ -1,0 +1,196 @@
+[
+  {
+    "id": "e276b7c2-da4a-40c6-8a89-6f75199e2710",
+    "data": [
+      {
+        "text": "ещё про то что ",
+        "userDefined": false
+      },
+      {
+        "text": "совсем не работает распознавание",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c95a68f-ca00-48b8-834a-250d42044f74",
+    "data": [
+      {
+        "text": "и с ",
+        "userDefined": false
+      },
+      {
+        "text": "микрофоном тоже",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d6335164-1772-4de2-b20e-2444308a579b",
+    "data": [
+      {
+        "text": "добавим про то что ",
+        "userDefined": false
+      },
+      {
+        "text": "плохо работает звук",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bd5e3788-6611-4c70-99f5-151d39c65a75",
+    "data": [
+      {
+        "text": "также про ",
+        "userDefined": false
+      },
+      {
+        "text": "микрофон",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "841b103c-354c-4b88-abd8-eddcf98ddf09",
+    "data": [
+      {
+        "text": "что ",
+        "userDefined": false
+      },
+      {
+        "text": "совсем не работает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "186e39e4-484c-4cb9-9825-9f0f0a1411b5",
+    "data": [
+      {
+        "text": "и ещё ",
+        "userDefined": false
+      },
+      {
+        "text": "работает только онлайн",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a4f4a8a8-7b81-46ef-bb2e-d8f5a20a5d4a",
+    "data": [
+      {
+        "text": "добавь что ",
+        "userDefined": false
+      },
+      {
+        "text": "мне нужен оффлайн режим",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0b6e6904-a09e-4708-8d9d-08135be35fdb",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "микрофон тоже не работает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0640ea64-c186-484d-a50a-ad4358545ad1",
+    "data": [
+      {
+        "text": "и про ",
+        "userDefined": false
+      },
+      {
+        "text": "звук",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " тоже",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "699317ce-fc20-4cca-8c46-ce6b31e2c58d",
+    "data": [
+      {
+        "text": "также про то что ",
+        "userDefined": false
+      },
+      {
+        "text": "не работает без интернета",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

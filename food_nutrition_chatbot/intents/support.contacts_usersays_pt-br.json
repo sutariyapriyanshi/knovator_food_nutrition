@@ -1,0 +1,106 @@
+[
+  {
+    "id": "de7e4fd9-f61a-4610-ae44-c75c57ebbd36",
+    "data": [
+      {
+        "text": "quero falar com seu criador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c4db431-6487-4e21-8188-9f7b441dd13b",
+    "data": [
+      {
+        "text": "encontre os contatos dos seus criadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84f78594-a0e8-4319-8b1f-6627ef77fe43",
+    "data": [
+      {
+        "text": "como faço para falar com seus desenvolvedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4125454d-2c45-468c-9cf1-8d6c8965ab9d",
+    "data": [
+      {
+        "text": "entre em contato com seus criadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f51bad30-d814-4ec4-9b3b-713732a148a4",
+    "data": [
+      {
+        "text": "quais são suas informações de contato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb32ce4e-2194-4f80-bd27-5a40b4f22848",
+    "data": [
+      {
+        "text": "me passe os contatos dos seus desenvolvedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cdeb58d1-9c39-43c8-b1c8-59c5a3fc90c0",
+    "data": [
+      {
+        "text": "informações de contato dos seus desenvolvedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1ba0d42-f61c-4167-abc2-0856a6f277b3",
+    "data": [
+      {
+        "text": "entre em contato com seus desenvolvedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

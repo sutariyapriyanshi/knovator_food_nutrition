@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bd978799-147b-4ab5-8b85-cf2113d36d80",
+    "data": [
+      {
+        "text": "Can you say it again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75ef044d-b1f8-4333-8f59-f9844e7d49e9",
+    "data": [
+      {
+        "text": "I didn\u0027t catch that, can you say it again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62b3cff9-84c5-42e7-8ecf-e07dd9b23a60",
+    "data": [
+      {
+        "text": "Tell me that again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9108647-64b9-4af8-b092-966af6b25729",
+    "data": [
+      {
+        "text": "Can you repeat that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

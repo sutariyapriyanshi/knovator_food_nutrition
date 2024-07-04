@@ -1,0 +1,135 @@
+[
+  {
+    "id": "d2912001-c13e-4ce7-99d2-6212588160a7",
+    "data": [
+      {
+        "text": "peux-tu me donner l\u0027adresse de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1e132705-aa8a-41c2-b116-caadc177d39a",
+    "data": [
+      {
+        "text": "quelle est ",
+        "userDefined": false
+      },
+      {
+        "text": "l",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027adresse ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9b356a7b-5d10-4f59-9a14-a821a0a95a60",
+    "data": [
+      {
+        "text": "dis-moi l\u0027adresse de ton entreprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "039648cf-8ba4-4c36-bbb8-4fc998bcb97c",
+    "data": [
+      {
+        "text": "donne-moi ton adresse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "36ab7c1f-c475-4a22-98d7-00873aac20aa",
+    "data": [
+      {
+        "text": "c\u0027est quoi l\u0027adresse de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "08a525cf-4283-4a40-a96d-57a194007378",
+    "data": [
+      {
+        "text": "quelle est l\u0027adresse de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0e51b8d0-5f67-4687-b339-8829899f6eec",
+    "data": [
+      {
+        "text": "j\u0027ai besoin de l\u0027adresse de tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e4a55589-480e-4d41-9c6c-57bbe41acb13",
+    "data": [
+      {
+        "text": "donne-moi l\u0027adresse de ton entreprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c8f102dc-4270-44ae-95db-ca6a83460f4d",
+    "data": [
+      {
+        "text": "je voudrais savoir quelle est l\u0027adresse de tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

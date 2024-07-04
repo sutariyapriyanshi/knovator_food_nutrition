@@ -1,0 +1,181 @@
+[
+  {
+    "id": "3918eb61-e18b-4bc1-a6a9-3e4f7f8a8a3c",
+    "data": [
+      {
+        "text": "comunicar erro ",
+        "userDefined": false
+      },
+      {
+        "text": "não funciona como suposto",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "e1c3c631-db44-4cc4-9140-689daeec9737",
+    "data": [
+      {
+        "text": "tenho um problema com ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "dc999a46-ce86-4887-9746-9bbd7b86b438",
+    "data": [
+      {
+        "text": "detetei um erro no ",
+        "userDefined": false
+      },
+      {
+        "text": "calendário",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "be04809b-e5bc-427a-aca8-5e2de82a43e1",
+    "data": [
+      {
+        "text": "comete muitos erros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "e3b4f9ce-b2be-4cb8-8b44-63121f0bf725",
+    "data": [
+      {
+        "text": "pode ajudar-me a resolver o problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "8def91a2-6966-4b26-af17-6ade68572e63",
+    "data": [
+      {
+        "text": "informe os seus programadores sobre este erro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "2e4f74a1-d411-486d-ba03-d89f924e61b8",
+    "data": [
+      {
+        "text": "comunicar erro ",
+        "userDefined": false
+      },
+      {
+        "text": "não está a funcionar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "b964864f-b0fa-4b99-b03a-6fa63cccf7d8",
+    "data": [
+      {
+        "text": "comunicar um problema ",
+        "userDefined": false
+      },
+      {
+        "text": "o widget não está a funcionar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "182732d4-df83-4deb-b7db-792b2ddcd423",
+    "data": [
+      {
+        "text": "quero mostrar o erro aos seus programadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "2d414be2-8d1c-4068-94ca-c416951a95aa",
+    "data": [
+      {
+        "text": "enviar um relatório de erro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "d2546e60-dd9b-4e8e-9d8f-b06fac9d7450",
+    "data": [
+      {
+        "text": "enviar um relatório de erro para os seus programadores ",
+        "userDefined": false
+      },
+      {
+        "text": "a ativação por voz não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  }
+]

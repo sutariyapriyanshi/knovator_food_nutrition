@@ -1,0 +1,173 @@
+[
+  {
+    "id": "729d914f-8a30-48c6-b0ae-073c854d2965",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c3722573-78b3-4d56-b362-3d081302a070",
+    "data": [
+      {
+        "text": "ようつべ",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "アカウントも教えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3fa5b738-3b57-4f33-818b-bd4cb00a57b3",
+    "data": [
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "も同様",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d76358a5-0672-40ec-8d5a-b82c326af45a",
+    "data": [
+      {
+        "text": "ツイッター",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "もお願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "11c86b36-6182-4bce-b12a-cc617c9abb18",
+    "data": [
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "についてはどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f0128ed7-ab33-4580-adc5-34245edeaacc",
+    "data": [
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページも必要です",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "db1bf529-b87a-42ec-bd04-ca43c861da47",
+    "data": [
+      {
+        "text": "インスタグラム",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "も",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "babf9757-ced8-4b28-aa9c-43d171db6878",
+    "data": [
+      {
+        "text": "FB",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページもお願い",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "b0625336-51fa-44ed-9704-26fd54ff46c1",
+    "data": [
+      {
+        "text": "フェイスブック",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページについてはどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

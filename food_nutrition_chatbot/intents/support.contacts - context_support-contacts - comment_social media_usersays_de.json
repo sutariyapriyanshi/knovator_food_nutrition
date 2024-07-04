@@ -1,0 +1,212 @@
+[
+  {
+    "id": "91cf709c-9892-4700-b454-74a3b68d8f5b",
+    "data": [
+      {
+        "text": "bitte auch dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a4781850-3836-4901-b3ac-980773ff56f2",
+    "data": [
+      {
+        "text": "gib mir auch dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9211b734-cf6a-40a6-8a68-0efcebfc015b",
+    "data": [
+      {
+        "text": "und dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90f96e1d-ea41-4b7f-8802-ebb9db1dfe6d",
+    "data": [
+      {
+        "text": "dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f4e34ed6-b5fa-4f8f-be28-fd97448b05d3",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "65aebfb2-d469-4e45-b602-2d91250a82ac",
+    "data": [
+      {
+        "text": "ich brauche auch deine ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      },
+      {
+        "text": "-Seite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1806796a-c149-47d5-89e8-2e71e2eb7e8c",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c13dbda6-d6a3-4580-bc71-f3d47ca6d29f",
+    "data": [
+      {
+        "text": "ich brauche auch dein ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dd1a702c-98d3-41af-b2a1-b6e545a7c5f5",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      },
+      {
+        "text": "-Seite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cd764c32-6160-45d6-93bf-cf213481a700",
+    "data": [
+      {
+        "text": "und auch ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

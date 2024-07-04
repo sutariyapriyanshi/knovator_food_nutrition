@@ -1,0 +1,124 @@
+[
+  {
+    "id": "8093d39c-86c2-4961-9408-451627a1abd6",
+    "data": [
+      {
+        "text": "dass ",
+        "userDefined": false
+      },
+      {
+        "text": "Video funktioniert nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d64bce9e-e5bd-45c1-b86b-bfd48b9f5c43",
+    "data": [
+      {
+        "text": "und ",
+        "userDefined": false
+      },
+      {
+        "text": "das Video geht nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "470d1ab7-1cac-4718-8d9a-3ed6a8a23600",
+    "data": [
+      {
+        "text": "und dass ",
+        "userDefined": false
+      },
+      {
+        "text": "wichtige Funktionen nicht gehen",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ddb98355-f0ab-48ae-990e-f21b6acacb1d",
+    "data": [
+      {
+        "text": "und das ",
+        "userDefined": false
+      },
+      {
+        "text": "Programm ist zu langsam",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "efbc1996-55fc-4972-9137-dcb3767320f6",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " dass ",
+        "userDefined": false
+      },
+      {
+        "text": "wichtige Funktionen nicht funktionieren",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2da665a3-f6e3-4f96-9a12-4faefc6acbc6",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Video funktioniert nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

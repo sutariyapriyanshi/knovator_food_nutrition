@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6698d6ff-7186-4b26-a174-43c6f1fd676f",
+    "data": [
+      {
+        "text": "che ",
+        "userDefined": false
+      },
+      {
+        "text": "non mi risponde",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "91310b23-161d-4e7d-89a3-d6c8bce8d1f6",
+    "data": [
+      {
+        "text": "anche per il programma che ",
+        "userDefined": false
+      },
+      {
+        "text": "non funziona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ad22e765-4fa9-451c-9539-1537b971f183",
+    "data": [
+      {
+        "text": "e anche che ",
+        "userDefined": false
+      },
+      {
+        "text": "non lo sa",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6dbbdd4b-8fc0-4670-b809-287dd2964ad7",
+    "data": [
+      {
+        "text": "anche che ",
+        "userDefined": false
+      },
+      {
+        "text": "il microfono non funziona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

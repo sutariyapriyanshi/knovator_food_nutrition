@@ -1,0 +1,139 @@
+[
+  {
+    "id": "627237da-4582-453a-b119-03adcb434dab",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "69d7bd1f-b4b0-48f9-94e7-04955cc05a3e",
+    "data": [
+      {
+        "text": "et ",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c63fd829-4fae-4e93-8ce9-b605665dd1f3",
+    "data": [
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "efa9b277-caca-435b-8329-a5fc74e2e4e9",
+    "data": [
+      {
+        "text": "ta page ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "404b3413-d8b8-4f40-b8d9-28011f1b5b58",
+    "data": [
+      {
+        "text": "maintenant ta page ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a794ffda-637b-49f0-bb91-4950883a0e19",
+    "data": [
+      {
+        "text": "et",
+        "userDefined": false
+      },
+      {
+        "text": " leur page ",
+        "userDefined": false
+      },
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a5e81c6b-48c3-4a2a-92a0-00969b2b0d53",
+    "data": [
+      {
+        "text": "maintenant ta page ",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "7148e937-bdc1-4c1e-98d3-8166053a9c4d",
+    "data": [
+      {
+        "text": "補充說",
+        "userDefined": false
+      },
+      {
+        "text": "我需要一個離線模式",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "cdf390f5-1cd3-4032-b72a-6d645de2ffcb",
+    "data": [
+      {
+        "text": "並且",
+        "userDefined": false
+      },
+      {
+        "text": "來電顯示不工作",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f5e4bbda-9410-4cbf-8bcc-eeff13900608",
+    "data": [
+      {
+        "text": "麥克風",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "也不行",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8dd763be-3e04-45fc-aea9-0b1ddadf552d",
+    "data": [
+      {
+        "text": "添加",
+        "userDefined": false
+      },
+      {
+        "text": "不能脫機工作",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "36c16ad2-b4c2-4c6c-8160-1bb5a5a8d3c4",
+    "data": [
+      {
+        "text": "而且",
+        "userDefined": false
+      },
+      {
+        "text": "你只能在線工作",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3a449fe9-ff80-4b2f-8436-6f8e662fb648",
+    "data": [
+      {
+        "text": "並且",
+        "userDefined": false
+      },
+      {
+        "text": "沒有離線模式",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f94458f7-9875-448c-bf6f-da39f60ed556",
+    "data": [
+      {
+        "text": "和",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風問題",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "23df1f8b-d509-426b-88fb-6233233417dc",
+    "data": [
+      {
+        "text": "並且",
+        "userDefined": false
+      },
+      {
+        "text": "我有問題",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "7b9dc778-8c26-46f6-ae84-0aed72cf25ab",
+    "data": [
+      {
+        "text": "麥克風也不起作用",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9e374316-e46b-4898-8efa-1f1c14f20046",
+    "data": [
+      {
+        "text": "還有",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風問題",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

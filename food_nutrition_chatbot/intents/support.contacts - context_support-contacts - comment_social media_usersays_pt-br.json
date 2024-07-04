@@ -1,0 +1,200 @@
+[
+  {
+    "id": "5b2ee8f2-4b66-494d-a6c6-504c7b350e43",
+    "data": [
+      {
+        "text": "também preciso da página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bbca1d02-af4e-441d-9876-77d801cba997",
+    "data": [
+      {
+        "text": "e o ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6d5a098-5183-450b-9870-facb55274da1",
+    "data": [
+      {
+        "text": "o ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": " também",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eca5cd6-57f6-4014-bede-dc5b25810e0f",
+    "data": [
+      {
+        "text": "assim como seu ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40565267-30ca-4761-ad25-d7fbba5da16d",
+    "data": [
+      {
+        "text": "e seu ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef9dfc62-e8e9-47f6-84e5-51ff8bb37cb6",
+    "data": [
+      {
+        "text": "e a página do ",
+        "userDefined": false
+      },
+      {
+        "text": "FB",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d3c0d5e-1e07-4662-8323-c467f943f79c",
+    "data": [
+      {
+        "text": "seu ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fb256b41-f1d0-4a70-8dc9-75c0b4e511ce",
+    "data": [
+      {
+        "text": "o ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": " também",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c10e7b9-4339-463a-9551-719a599db4b1",
+    "data": [
+      {
+        "text": "e a página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "063f8dfc-bd7d-4d92-973b-6481eae06fb2",
+    "data": [
+      {
+        "text": "e o ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

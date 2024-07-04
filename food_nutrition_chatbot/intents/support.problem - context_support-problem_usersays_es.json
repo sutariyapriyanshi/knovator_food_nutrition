@@ -1,0 +1,78 @@
+[
+  {
+    "id": "d51502f3-4993-4968-93d1-0ccefef48c16",
+    "data": [
+      {
+        "text": "tampoco en ",
+        "userDefined": false
+      },
+      {
+        "text": "PDF",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9e73b5e8-4811-43e7-8591-77d9e015009f",
+    "data": [
+      {
+        "text": "y el ",
+        "userDefined": false
+      },
+      {
+        "text": "micrófono tampoco funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fd6e7e22-f13e-4bd5-8aa8-da96b3883d41",
+    "data": [
+      {
+        "text": "además ",
+        "userDefined": false
+      },
+      {
+        "text": "no se puede descargar imágenes",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1d4eba90-6dc9-4de8-9489-423a32e9cc38",
+    "data": [
+      {
+        "text": "y que ",
+        "userDefined": false
+      },
+      {
+        "text": "no puedo cambiar el avatar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

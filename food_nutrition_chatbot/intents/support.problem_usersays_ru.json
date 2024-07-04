@@ -1,0 +1,717 @@
+[
+  {
+    "id": "fb7d8b8d-5757-4b1a-a170-c76404d5d216",
+    "data": [
+      {
+        "text": "ты сделала ошибку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c8d3bc48-43e7-4938-8b49-517c63a5506d",
+    "data": [
+      {
+        "text": "я заметил ошибки давай сообщим о них",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "98131ff5-cc5d-423d-9202-0ec7ae211ccc",
+    "data": [
+      {
+        "text": "отправить отчёт ",
+        "userDefined": false
+      },
+      {
+        "text": "приложение не работает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0aa58b32-fa69-41c9-8382-a5ff63bd6955",
+    "data": [
+      {
+        "text": "отчёт разработчикам ",
+        "userDefined": false
+      },
+      {
+        "text": "виджет не работает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e6a5af93-7292-42c4-8b7f-f29faebd315e",
+    "data": [
+      {
+        "text": "отправь отчёт о проблемах твоим разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "98d2d7e5-e2aa-4eec-98bd-5dde545b324e",
+    "data": [
+      {
+        "text": "сообщи разработчикам об ошибке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e0107443-33df-4f9e-b9b5-f77ef289982a",
+    "data": [
+      {
+        "text": "у тебя проблемы с пониманием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f48e8435-b7db-4c04-8432-13a429b55fd4",
+    "data": [
+      {
+        "text": "я хочу написать про ошибки которые нашел у тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e651dd5c-eb63-4532-aced-8d0238b34319",
+    "data": [
+      {
+        "text": "я заметил у тебя ошибки ",
+        "userDefined": false
+      },
+      {
+        "text": "запрос постоянно сбрасывается",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f51bb083-c938-4107-9376-621381c977de",
+    "data": [
+      {
+        "text": "скажи разработчикам чтобы срочно починили",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c93c65a7-7d52-4acc-b401-d39a6297ad7d",
+    "data": [
+      {
+        "text": "сообщи программистам об ошибках",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "26d36176-13b9-4866-9f44-13f69a395070",
+    "data": [
+      {
+        "text": "отправь сообщение об ошибке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1d7e91f7-80f3-488f-a698-81a12f3096dc",
+    "data": [
+      {
+        "text": "скажи разработчикам чтобы починили",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9c7d780a-ef2b-40ff-a693-5c69b8999467",
+    "data": [
+      {
+        "text": "ты ошиблась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6b7744e1-f2a1-4a43-b966-2de63309673a",
+    "data": [
+      {
+        "text": "отправь отчёт про твои ",
+        "userDefined": false
+      },
+      {
+        "text": "проблемы с аватаром",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "254d6dc1-a702-47de-920b-8b844c6420fe",
+    "data": [
+      {
+        "text": "нужно сообщить обо всех ошибках что я нашел в этом приложении",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a6629b4-96fb-4b50-b127-080867e0baea",
+    "data": [
+      {
+        "text": "слишком много ошибок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d1415e18-2290-4376-85f6-5c8a91a08e23",
+    "data": [
+      {
+        "text": "ошибка в ",
+        "userDefined": false
+      },
+      {
+        "text": "календаре",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c257bba-3bfe-409c-ae40-63a1e961481c",
+    "data": [
+      {
+        "text": "я хочу отправить баг репорт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "db04b932-f349-4d23-87d1-3b022d896aba",
+    "data": [
+      {
+        "text": "отправь отчёт ",
+        "userDefined": false
+      },
+      {
+        "text": "не работает как надо",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b7785494-3b2a-4c0a-9037-d8dc644c45c8",
+    "data": [
+      {
+        "text": "можешь помочь мне решить эту проблему ",
+        "userDefined": false
+      },
+      {
+        "text": "не работает команда",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "50d72709-f2cf-4fbf-b0d4-54008d45823c",
+    "data": [
+      {
+        "text": "с тобой одни проблемы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "93246219-3418-4b64-9018-680850fe0460",
+    "data": [
+      {
+        "text": "ты делаешь много ошибок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "def647bf-ef1b-4550-8127-c39e722886a4",
+    "data": [
+      {
+        "text": "передай разработчикам у тебя баг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c11f251-f41e-429d-b504-03e99e66fb10",
+    "data": [
+      {
+        "text": "тут полно ошибок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4bce71ce-c689-4799-b795-7295cf72db2a",
+    "data": [
+      {
+        "text": "хочу сообщить об ошибке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8772f6b7-789f-48e7-b360-e9f32ef10a3d",
+    "data": [
+      {
+        "text": "покажи своим разработчикам эти ошибки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c8499a7-81e5-4c04-b420-8ebf8df3738a",
+    "data": [
+      {
+        "text": "сообщи о проблеме твоим создателям",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "543b2230-1bc7-410e-aa70-cbd498518025",
+    "data": [
+      {
+        "text": "в твоей системе возникли проблемы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8ff9b466-bc7e-4914-af94-5aee14419687",
+    "data": [
+      {
+        "text": "отправь отчет о своих ошибках",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "78486b4d-e010-40e1-b399-6aed84cd5693",
+    "data": [
+      {
+        "text": "я заметил проблему",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d283858d-fed8-4df4-aac7-598658865b5b",
+    "data": [
+      {
+        "text": "отправь информацию про эту ошибку разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "894e79d3-20db-4abe-b112-5c359d3ca501",
+    "data": [
+      {
+        "text": "скажи разработчикам они должны решить эту проблему",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "905f0911-efd8-43ad-90c6-85b35537bced",
+    "data": [
+      {
+        "text": "что-то нужно починить так и передай разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b954f77a-278e-4ac6-874b-0df39159a793",
+    "data": [
+      {
+        "text": "отправь отчет об ошибке ",
+        "userDefined": false
+      },
+      {
+        "text": "это не работает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5564a31c-45c5-4ea8-98c7-8c0e78ba5dfc",
+    "data": [
+      {
+        "text": "у тебя проблемы с распознаванием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0577878e-5cd3-4020-99e4-62c9cbd996a1",
+    "data": [
+      {
+        "text": "нужно решить проблему с ",
+        "userDefined": false
+      },
+      {
+        "text": "аватаром",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3d67d35f-858f-491c-81eb-73840b30ed22",
+    "data": [
+      {
+        "text": "хочу сообщить о проблеме  ",
+        "userDefined": false
+      },
+      {
+        "text": "у меня не работает микрофон",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "53ea5f89-f07d-41b6-9b0c-cbc6958090a3",
+    "data": [
+      {
+        "text": "очень много ошибок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ba771d9-245e-4e52-acc3-75bc67e05bdd",
+    "data": [
+      {
+        "text": "у меня проблема ",
+        "userDefined": false
+      },
+      {
+        "text": "бот не отвечает на запрос правильно",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7f8debf7-39b9-41fb-8c53-1210ae914a20",
+    "data": [
+      {
+        "text": "расскажи разработчикам про этот баг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4448a6a2-0a3d-418f-8815-72ef7821683b",
+    "data": [
+      {
+        "text": "я увидел проблему ",
+        "userDefined": false
+      },
+      {
+        "text": "бот не реагирует на смайлы",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1a73db7d-2ea7-439a-9ee6-70236f048f5c",
+    "data": [
+      {
+        "text": "у меня проблемы с этим приложением",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8ea8b449-f09f-4a80-9fb9-af3193981c6d",
+    "data": [
+      {
+        "text": "баг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "607cc8aa-10c9-4264-bfa5-4b454a156bef",
+    "data": [
+      {
+        "text": "отправить отчет об ошибках",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0bb0cfdf-5d9e-48f8-886c-4fe9ba63f250",
+    "data": [
+      {
+        "text": "я нашёл ошибки ",
+        "userDefined": false
+      },
+      {
+        "text": "отправляются неверные ответы",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3bbbc406-b0b2-4462-958c-126a75940839",
+    "data": [
+      {
+        "text": "свяжись с разработчиками и сообщи о своей проблеме",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "93f54b63-391d-480c-a11c-5ad68077f5d8",
+    "data": [
+      {
+        "text": "в тебе есть ошибки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9bb8a513-264b-41c9-9418-9e8ee791d9f9",
+    "data": [
+      {
+        "text": "передай своим разработчикам у тебя проблемы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

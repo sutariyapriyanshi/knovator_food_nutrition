@@ -1,0 +1,164 @@
+[
+  {
+    "id": "c7369540-399c-40c1-bd33-f2ad0e0962ec",
+    "data": [
+      {
+        "text": "wo befindet sich deine Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "03f46a9f-d36a-4210-9fd7-a8f28a848030",
+    "data": [
+      {
+        "text": "wo sitzt die Firma deines Entwicklers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ae1a18c3-bed0-4529-a86b-7a5062456ba2",
+    "data": [
+      {
+        "text": "Adresse deiner Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6f58a357-424c-49c3-aaf4-bff5e7f125cd",
+    "data": [
+      {
+        "text": "wo ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "userDefined": false
+      },
+      {
+        "text": " das ",
+        "userDefined": false
+      },
+      {
+        "text": "Büro",
+        "userDefined": false
+      },
+      {
+        "text": " von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4d21fe1d-76bc-4057-96ca-70ca6ea82250",
+    "data": [
+      {
+        "text": "Firmensitz deines Entwicklers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3e6cc138-3227-475c-a323-484cc8133d0c",
+    "data": [
+      {
+        "text": "Adresse von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "18c7f69f-105d-48ab-b494-8f93005cfa4d",
+    "data": [
+      {
+        "text": "wie lautet die Adresse von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e95da9aa-eacc-4188-8ba8-3c1dc7013663",
+    "data": [
+      {
+        "text": "wo arbeiten deine Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "74b3bdc5-8089-430e-a92d-f1836593bc4d",
+    "data": [
+      {
+        "text": "wo wohnen deine Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "76b9e5d2-aec1-4408-8223-c3a40b346bf9",
+    "data": [
+      {
+        "text": "wo ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "userDefined": false
+      },
+      {
+        "text": " das ",
+        "userDefined": false
+      },
+      {
+        "text": "Büro",
+        "userDefined": false
+      },
+      {
+        "text": " von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

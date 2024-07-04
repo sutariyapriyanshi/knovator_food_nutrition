@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "124d4e62-6162-45ff-8a83-d95ed3f7b922",
+    "data": [
+      {
+        "text": "you make lots ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " mistakes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310a62e2-1d96-4962-bfb5-19fd6b652dc1",
+    "data": [
+      {
+        "text": "I need to report a bug that I\u0027ve found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14d21b74-2f8b-4caf-9e41-0ce51732ce1c",
+    "data": [
+      {
+        "text": "report bug to developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1319a04b-85a3-401d-aea2-f70dc53636c8",
+    "data": [
+      {
+        "text": "I have bug in ",
+        "userDefined": false
+      },
+      {
+        "text": "calendar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d725aca-8235-418b-846e-2f56d49d2016",
+    "data": [
+      {
+        "text": "send problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c40666ea-9941-41f5-8787-88845c33c41e",
+    "data": [
+      {
+        "text": "I\u0027m having problem with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bffe729a-94b8-4e49-8fec-5cbc89142826",
+    "data": [
+      {
+        "text": "send report about ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83067a15-b846-41fc-8b9f-b1357da8b4e6",
+    "data": [
+      {
+        "text": "I\u0027m having problem with ",
+        "userDefined": false
+      },
+      {
+        "text": "this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4993afa1-7944-4037-9841-98be4bc74280",
+    "data": [
+      {
+        "text": "bug in calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cc01dcf-2645-462c-91a7-bf9f488f138f",
+    "data": [
+      {
+        "text": "I need to report bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e984a047-4856-4959-ae7c-d9b1a30ff99d",
+    "data": [
+      {
+        "text": "you have bugs ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41e9343a-56d3-4319-9f14-614b9db8c945",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers that you have a bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f702bd2-4235-4ff9-a15e-538ea23becb9",
+    "data": [
+      {
+        "text": "report bug ",
+        "userDefined": false
+      },
+      {
+        "text": "it\u0027s not working",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3479afdc-aa22-4c02-8b1b-7cd851de7391",
+    "data": [
+      {
+        "text": "you have problems in understanding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc67b543-279a-46e1-b48c-ac8d0e16d0f1",
+    "data": [
+      {
+        "text": "send bug report to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46303912-85ce-4a71-b02f-af4e9e1603ad",
+    "data": [
+      {
+        "text": "I have a problem with ",
+        "userDefined": false
+      },
+      {
+        "text": "mic",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7804f30c-bf70-4296-a154-ce0bd4d5223e",
+    "data": [
+      {
+        "text": "report problem ",
+        "userDefined": false
+      },
+      {
+        "text": "the widget isn\u0027t working",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5a5aaf3-b65b-47c1-8d5a-fb802d70819c",
+    "data": [
+      {
+        "text": "tell about bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "468df27d-90c7-4cb3-9742-c97ceaeba600",
+    "data": [
+      {
+        "text": "bug report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dee2fcf9-2086-493c-a080-2358fd8f6d46",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers about this bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6694b16b-f425-4ae5-ad3c-e88300ba894c",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " full ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74f1fa15-f7e1-441d-87d8-6e0f4e3e9dad",
+    "data": [
+      {
+        "text": "send bug report to your developers ",
+        "userDefined": false
+      },
+      {
+        "text": "the voice activation doesn\u0027t work",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28a04cad-9c34-416f-bc64-64fb5755a71f",
+    "data": [
+      {
+        "text": "report bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937cf9b1-f4ed-458c-8294-8b9df877e7b8",
+    "data": [
+      {
+        "text": "there ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " bugs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e9effa7-07fe-4a7d-b410-3cfb3fd0cb06",
+    "data": [
+      {
+        "text": "I want to show errors to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91d98ce8-7050-4b0c-92f4-3dd4b2f24e04",
+    "data": [
+      {
+        "text": "I want to report error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab0339c1-664c-4c93-9681-3b5cbc9e5b04",
+    "data": [
+      {
+        "text": "I noticed bug about ",
+        "userDefined": false
+      },
+      {
+        "text": "calendar",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f38aefb0-67bc-4b4b-b60c-e94d568e82e2",
+    "data": [
+      {
+        "text": "I\u0027ve found bugs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8341dee9-ae9c-4ef4-ac00-bd093e868cb7",
+    "data": [
+      {
+        "text": "I need to report a bug that I\u0027ve found in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45239613-1697-4823-9de9-2aacd4777bc8",
+    "data": [
+      {
+        "text": "send problem to developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f5bf075-c74a-4af1-95cc-ef76ddd4302c",
+    "data": [
+      {
+        "text": "I see problems in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eefc6127-3044-4638-a4f4-e0dc5e13c813",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developrs they should fix you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fed1afa-4327-4781-872c-ebb87f2ad57d",
+    "data": [
+      {
+        "text": "there is a bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2c247b7-04c2-4a28-9ca6-4aa59088cf92",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers they should fix mistakes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2b9cd4b-e23b-4729-b16b-973622ad3c4a",
+    "data": [
+      {
+        "text": "report bug ",
+        "userDefined": false
+      },
+      {
+        "text": "it doesn\u0027t work as it should",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "632a9780-2582-4f97-a5e0-98ba257c5883",
+    "data": [
+      {
+        "text": "send a bug report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf9302e5-6d81-4fcc-bbff-c3f5f880bc17",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developrs they should solve the problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf09cf19-144e-4055-ab1e-f8f7f3b6a114",
+    "data": [
+      {
+        "text": "I need to report a bug that I\u0027ve found in ",
+        "userDefined": false
+      },
+      {
+        "text": "your application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bf86450-44eb-4379-93c0-dafb81f2ab44",
+    "data": [
+      {
+        "text": "too many",
+        "userDefined": false
+      },
+      {
+        "text": " bugs in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9d6c616-1320-494c-aa29-9e9a83210b1d",
+    "data": [
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " full ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "userDefined": false
+      },
+      {
+        "text": " problems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f33940-3758-4eca-b153-49a404153233",
+    "data": [
+      {
+        "text": "send problem to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c9a8682-cce8-4932-bc06-fd97828f6e2a",
+    "data": [
+      {
+        "text": "send information about bug to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e9d976-5507-4cd1-8a77-1859f2519ff0",
+    "data": [
+      {
+        "text": "I see bugs in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de713773-2ae4-4b29-9d96-cd1e2c47ed5b",
+    "data": [
+      {
+        "text": "can you help me to resolve the issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a87c468-fcaa-40ef-8b5b-f3dec6500c81",
+    "data": [
+      {
+        "text": "I noticed bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a23b4d1b-30c0-44f3-8f82-bf8ac80caef4",
+    "data": [
+      {
+        "text": "errors ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": false
+      },
+      {
+        "text": " around you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ceb0065-278d-4419-a240-38f4bdf7b504",
+    "data": [
+      {
+        "text": "report problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87b54a27-272b-436f-acc2-f01510eec0d2",
+    "data": [
+      {
+        "text": "send bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71b7fb18-f68d-4fad-adcb-a845f2d61555",
+    "data": [
+      {
+        "text": "you have problems understanding me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8eddab3-e764-4dca-8d24-16f7133da44b",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developrs they should fix something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6407d89-4bec-44d0-8b4c-d81b70d4cecf",
+    "data": [
+      {
+        "text": "there ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " mistakes in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc3d3cad-8100-41d5-bcb8-63920c33ac5a",
+    "data": [
+      {
+        "text": "I want to show error to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35a9905c-727b-40b2-8c49-e2883a8aa12d",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developrs they should solve the issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d25d40db-e41a-4ff9-b031-92aa377090ee",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developrs they should fix the error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7160411-1a2e-4656-b0a5-894a5683c3dd",
+    "data": [
+      {
+        "text": "I see bug in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0950b41-6043-4a0b-bc1f-ffeb818a9966",
+    "data": [
+      {
+        "text": "I have a problem with ",
+        "userDefined": false
+      },
+      {
+        "text": "your application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2420d23e-22db-4d09-848d-ad1d7f8c3ee4",
+    "data": [
+      {
+        "text": "I need to report a bug in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58ade018-6ca0-4155-b8ad-c4a80e543ad0",
+    "data": [
+      {
+        "text": "tell ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers about bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72408640-266c-406e-b734-172d22fc54d3",
+    "data": [
+      {
+        "text": "report bug to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc6dea2-53f4-4326-baa1-889906052b18",
+    "data": [
+      {
+        "text": "send error to ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1e7c95b-02c7-4840-b7b5-fa3ba2aff064",
+    "data": [
+      {
+        "text": "you made mistake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3328bc6-9c05-4c89-bb81-fb1c3c5cb7ca",
+    "data": [
+      {
+        "text": "you have problems in ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51ac48d1-9072-4a04-90c4-b801ca72ddf7",
+    "data": [
+      {
+        "text": "I want to report bug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
