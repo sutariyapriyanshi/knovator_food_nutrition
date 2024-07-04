@@ -1,0 +1,246 @@
+[
+  {
+    "id": "ee2465f5-8020-429f-a5f0-07eb956cd828",
+    "data": [
+      {
+        "text": "je t\u0027aime bien",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " dis ça à tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9906311c-a556-4c0b-a559-9adb0ae122cd",
+    "data": [
+      {
+        "text": "je voudrais dire à tes développeurs que ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027adore leur application",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4dce3e69-e9b2-47af-9bd3-2b406f432a4c",
+    "data": [
+      {
+        "text": "envoie ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message à tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "daf5783e-089f-4706-b8c8-74d84b0ab272",
+    "data": [
+      {
+        "text": "pourrais-tu passer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message à tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "28c02b81-9381-4eab-9cf0-22c0249f64b2",
+    "data": [
+      {
+        "text": "je voudrais dire à tes créateurs que ",
+        "userDefined": false
+      },
+      {
+        "text": "ton application est très bien",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "01acc186-a9e1-418d-a91b-8b46edd9ce3f",
+    "data": [
+      {
+        "text": "je veux partager ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "userDefined": false
+      },
+      {
+        "text": " avis avec tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4d496e2c-1155-4640-9da9-4035b8573906",
+    "data": [
+      {
+        "text": "j\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message pour tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "647f5a11-545e-43fa-a2a5-a6db6fe5afdb",
+    "data": [
+      {
+        "text": "envoie ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message pour tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "07921fa1-e7be-4d84-94cd-0a13167a8e06",
+    "data": [
+      {
+        "text": "pourras-tu dire à tes concepteurs ",
+        "userDefined": false
+      },
+      {
+        "text": "vous avez fait une super appli",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b73d3241-aece-43b3-b6d0-ab03a3edeba8",
+    "data": [
+      {
+        "text": "je voudrais passer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message à tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "52f75e94-fce9-4a12-bddc-679f992a4086",
+    "data": [
+      {
+        "text": "dis",
+        "userDefined": false
+      },
+      {
+        "text": " à tes développeurs que ",
+        "userDefined": false
+      },
+      {
+        "text": "je t\u0027aime",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cdc1a0e8-f21a-4e87-9f8f-97f1db4bb19f",
+    "data": [
+      {
+        "text": "dis à tes créateurs que ",
+        "userDefined": false
+      },
+      {
+        "text": "je t\u0027aime",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "id": "742844b0-23da-4b42-aeed-6f70533ee580",
+    "data": [
+      {
+        "text": "\"你的 ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      },
+      {
+        "text": " 主頁網址是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3d9510ff-d26a-45e6-8a4c-9316a29149ae",
+    "data": [
+      {
+        "text": "你有",
+        "userDefined": false
+      },
+      {
+        "text": "微博",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "帳號嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "bc8f55a8-3ee3-4a70-87c7-0fcbc348e931",
+    "data": [
+      {
+        "text": "你的頁面在",
+        "userDefined": false
+      },
+      {
+        "text": "臉書",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1716f1ff-9e9c-4cf5-bcfb-6218af9b26bf",
+    "data": [
+      {
+        "text": "你的社交網站 你那一個",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3e2ef523-6fdd-4cad-89c5-07357b3b2a10",
+    "data": [
+      {
+        "text": "給我說你",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "臉書",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a602a151-0827-4f7b-b174-a3e502b517b5",
+    "data": [
+      {
+        "text": "你的微博",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "ff9c520a-f835-4601-b807-464c5373d022",
+    "data": [
+      {
+        "text": "你有",
+        "userDefined": false
+      },
+      {
+        "text": "臉書",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "頁面嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "e7baed49-2acf-4838-81df-08430113e345",
+    "data": [
+      {
+        "text": "你有 ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      },
+      {
+        "text": " 帳號嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b68a7a97-0135-4a32-b4b5-c9961c6294d0",
+    "data": [
+      {
+        "text": "我想知道你的社交網站",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "06f8943c-8b8c-488b-8328-14d801e2ef73",
+    "data": [
+      {
+        "text": "你有社交網站嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "eb5c0b94-5035-4454-a46b-2beb4c7ef275",
+    "data": [
+      {
+        "text": "我要知道你有社交網站對不對",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "0bb4a095-facc-42c8-8598-69c0b1ea551a",
+    "data": [
+      {
+        "text": "你有沒有社交網站",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "847910e0-ff7d-47da-88cb-9be712569c60",
+    "data": [
+      {
+        "text": "你的",
+        "userDefined": false
+      },
+      {
+        "text": "臉書",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "頁面是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "0940604a-6327-45fd-9e98-c70081f896c5",
+    "data": [
+      {
+        "text": "打開你的",
+        "userDefined": false
+      },
+      {
+        "text": "臉書",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "頁面",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "da4bc34d-b3cd-4315-a23d-7d7fe559ead0",
+    "data": [
+      {
+        "text": "告訴我你的",
+        "userDefined": false
+      },
+      {
+        "text": "微博",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "頁面",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "c1ad6dfc-703b-4eb3-9824-2701018adcd5",
+    "data": [
+      {
+        "text": "告訴我你的社交網站",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "588487fa-3f46-48ea-ba07-3dc901c0f6cb",
+    "data": [
+      {
+        "text": "你有用",
+        "userDefined": false
+      },
+      {
+        "text": "微博",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "6f595cc1-7bcd-4fd9-a5f0-1b8db3257927",
+    "data": [
+      {
+        "text": "我想訪問你的",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "網站",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "4911a6b9-ea40-4b62-a7d1-d113edc0c17c",
+    "data": [
+      {
+        "text": "給我介紹你",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "推特",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "061f63ce-aa7e-4902-9543-874493a74fd6",
+    "data": [
+      {
+        "text": "你的臉書頁面在哪裏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9e9351c1-98b5-44cc-b768-e1f92d470cc2",
+    "data": [
+      {
+        "text": "你的社交網站",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "956accd8-f27a-4c90-a719-e9d8f68dd122",
+    "data": [
+      {
+        "text": "你有",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "帳號嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

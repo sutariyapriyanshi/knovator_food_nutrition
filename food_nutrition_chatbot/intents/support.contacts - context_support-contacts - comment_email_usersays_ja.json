@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d4d58e09-e2ae-4949-bb1f-6a57675da424",
+    "data": [
+      {
+        "text": "メールについてはどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8c7c0cff-6951-48a9-a2db-63e6b661952f",
+    "data": [
+      {
+        "text": "メールも",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1c2812df-05e0-42dc-9761-057d4edaf9df",
+    "data": [
+      {
+        "text": "メールも同様",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "292710b6-2cf8-4e0d-baa4-8119ffd10a2b",
+    "data": [
+      {
+        "text": "その人たちのメールアドレスを知っていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "83d94e2f-96bb-4931-963e-18332544afb0",
+    "data": [
+      {
+        "text": "メールもお願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "42400ac7-f93c-46da-b4c0-e8294460c883",
+    "data": [
+      {
+        "text": "現在のメールアドレス",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "b1f6c778-89b8-41ea-9de0-2d21aa2342d0",
+    "data": [
+      {
+        "text": "その人たちのメール",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9d7601de-df6e-4d57-b158-a6de20bd9d7a",
+    "data": [
+      {
+        "text": "その人たちのメールアドレス",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "214664a0-4819-4836-8d66-db77a115a6a1",
+    "data": [
+      {
+        "text": "今のメール",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c78e572f-af50-4cbd-ad3c-c76314ba0d1f",
+    "data": [
+      {
+        "text": "メールアドレスは",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

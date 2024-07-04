@@ -1,0 +1,25 @@
+[
+  {
+    "id": "5a07c168-6b79-4647-b74e-b1c0f0cf7bf0",
+    "data": [
+      {
+        "text": "What nutrition is there in ",
+        "userDefined": false
+      },
+      {
+        "text": "Peach",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

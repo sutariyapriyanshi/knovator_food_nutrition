@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6226b857-724a-4b26-a727-32170fe2ae33",
+    "data": [
+      {
+        "text": "parle-moi de toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b572f74d-f768-401c-b53e-3b095c8cbf88",
+    "data": [
+      {
+        "text": "raconte-moi ce que tes développeurs ont fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5fedd6c1-6add-4f4e-92cd-580b222bafc4",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que tes développeurs ont créé d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ff1f6707-9c82-4ec2-98cf-5f4d36840c1a",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que ton entreprise fait d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a7cea93b-0e7e-4ac9-bb48-b39c33cb80a6",
+    "data": [
+      {
+        "text": "raconte-moi ton entreprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4aaff7af-5d5f-4dfb-bfee-286d3b26ce38",
+    "data": [
+      {
+        "text": "donne-moi des informations sur l\u0027entreprise qui t\u0027a créé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9f373686-9cb6-4f74-a623-e3116b2b8d57",
+    "data": [
+      {
+        "text": "que font tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f0f6809c-f129-4f3f-b9ce-1ce176d1ba90",
+    "data": [
+      {
+        "text": "quelles sont les autres activités de ton entreprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "41f91ee0-6ae8-45a3-acd2-987e9be61295",
+    "data": [
+      {
+        "text": "I was just looking at your website and found you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "252e7d47-ca82-48ea-92ca-87a7dddd4c77",
+    "data": [
+      {
+        "text": "I don\u0027t need support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0810641-edde-4057-a73b-da35b99a9127",
+    "data": [
+      {
+        "text": "I love instagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d30af2d9-9b40-4a6a-943c-d22b5ba7c887",
+    "data": [
+      {
+        "text": "I don\u0027t have any issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a98aeed-7b38-429c-9421-bf79baa5a307",
+    "data": [
+      {
+        "text": "I don\u0027t like your special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fffe8c3b-6277-42dc-847d-ad3b9bafe2a4",
+    "data": [
+      {
+        "text": "No, I don\u0027t want a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

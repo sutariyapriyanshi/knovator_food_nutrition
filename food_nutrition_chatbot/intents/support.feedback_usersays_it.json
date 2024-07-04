@@ -1,0 +1,169 @@
+[
+  {
+    "id": "d233bf85-7335-4557-bfe7-04d42f35179c",
+    "data": [
+      {
+        "text": "dì ai tuoi developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4f6311be-6f8f-41e4-b3c6-49c6a1d04f19",
+    "data": [
+      {
+        "text": "manda una mail ai tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "03833e1f-362a-4e36-aa0e-cbd925e02da8",
+    "data": [
+      {
+        "text": "manda feedback ai tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "57b17d20-cf08-4e12-8013-2b92c24f0614",
+    "data": [
+      {
+        "text": "manda un messaggio ai tuoi sviluppatori ",
+        "userDefined": false
+      },
+      {
+        "text": "ho un problema",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "79758564-1383-48ee-8bb9-7e417ed2f7f4",
+    "data": [
+      {
+        "text": "dì ai tuoi sviluppatori che ",
+        "userDefined": false
+      },
+      {
+        "text": "ti adoro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5e3aee95-beb2-4b48-a8fe-86a5d4099461",
+    "data": [
+      {
+        "text": "dì ai tuoi sviluppatori che ",
+        "userDefined": false
+      },
+      {
+        "text": "ho un problema",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "edee95d8-7ed6-431d-a5e9-1bbb7da84616",
+    "data": [
+      {
+        "text": "manda feedback ai tuoi developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c65728bd-a33f-466a-a8de-e5c1049439bf",
+    "data": [
+      {
+        "text": "manda un messaggio ai tuoi developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "545e0509-c344-4c10-bf2e-dd05d917e8ad",
+    "data": [
+      {
+        "text": "manda una mail ai tuoi developer ",
+        "userDefined": false
+      },
+      {
+        "text": "ho una domanda",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "31e6afbe-0591-45c0-a5ad-40b892413304",
+    "data": [
+      {
+        "text": "manda feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "941a4942-feef-42cb-9d9b-d09e51c7d912",
+    "data": [
+      {
+        "text": "manda un messaggio ai tuoi creatori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

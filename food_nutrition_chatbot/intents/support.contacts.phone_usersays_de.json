@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1565c3c2-65d2-4f32-8d81-d974bbd7e791",
+    "data": [
+      {
+        "text": "Telefonnummer von deinem Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b0aa5199-af91-4306-bc5f-44fdd58de5b8",
+    "data": [
+      {
+        "text": "wie kann ich deine Firma anrufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6e790782-29e5-4bdf-9965-60f90f74488d",
+    "data": [
+      {
+        "text": "wie erreiche ich deinen Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bfcd3481-d87c-4ed5-9609-c9e16a5ebbc4",
+    "data": [
+      {
+        "text": "gib mir die Telefonnummer deiner Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "48ac4ebc-9acd-4414-92a7-0c0790914d64",
+    "data": [
+      {
+        "text": "Telefonnummer von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9db507bb-23ee-47f3-afbb-f0db2f3e546b",
+    "data": [
+      {
+        "text": "unter welcher Nummer kann ich deine Entwickler erreichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "be375e84-992e-4ba2-932f-62af382152e8",
+    "data": [
+      {
+        "text": "deine Telefonnummer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88805dd8-11fe-4bb1-a536-4f7a6edbc443",
+    "data": [
+      {
+        "text": "suche ",
+        "userDefined": false
+      },
+      {
+        "text": "nach",
+        "userDefined": false
+      },
+      {
+        "text": " Telefonnummer von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3b988743-a904-4a63-ad08-895acd8f69d6",
+    "data": [
+      {
+        "text": "unter welcher Nummer kann ich deine Entwickler anrufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9a8a81ff-4b00-4d21-b86d-25351506364f",
+    "data": [
+      {
+        "text": "wie kann ich deine Entwickler anrufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

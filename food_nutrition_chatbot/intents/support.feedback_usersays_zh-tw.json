@@ -1,0 +1,435 @@
+[
+  {
+    "id": "306af7f4-7852-4c97-bf5a-58be4d79489a",
+    "data": [
+      {
+        "text": "發送反饋給你的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "194948f8-a926-46c0-bf59-892e74a77636",
+    "data": [
+      {
+        "text": "發送反饋給你的開發人員",
+        "userDefined": false
+      },
+      {
+        "text": "保持偉大的工作",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "359569f6-5394-4e42-b521-b18f68ac350b",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "你真棒",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "cf7ec095-da1a-4b94-95b5-d0c89ceb78da",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8965fa91-6b79-4d74-a54d-687c212d3558",
+    "data": [
+      {
+        "text": "給你",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "開發",
+        "userDefined": false
+      },
+      {
+        "text": "人員告訴",
+        "userDefined": false
+      },
+      {
+        "text": "我愛你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "9d371096-528e-49da-8be1-f9756501ae66",
+    "data": [
+      {
+        "text": "我想告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "我喜歡你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "cc3b8ac1-57e6-402f-b03a-90a7cbd28f09",
+    "data": [
+      {
+        "text": "將反饋發送給你的團隊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "3db17ae6-9774-4657-bb3e-e79ba4342f01",
+    "data": [
+      {
+        "text": "發送消息給你的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a30ef35f-3e42-4f17-a46e-67f4c68e5634",
+    "data": [
+      {
+        "text": "告訴你的開發人員改善你",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "e6b32c96-5ffb-4cb3-a9b4-cdf2b070cd86",
+    "data": [
+      {
+        "text": "我想聯系你的開發人員並告訴",
+        "userDefined": false
+      },
+      {
+        "text": "他們做了那麽好的你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "12f2936a-bed5-4aad-bdf1-a394013580be",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "我不開心",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "a865bedd-f653-474e-87f6-f0e436dca49d",
+    "data": [
+      {
+        "text": "你可以聯系你的開發人員嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "164bfeef-d4eb-428b-9089-a31202ad606b",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "你就像我媽媽一樣",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "91cffe77-42f0-4023-803a-be908f9227b6",
+    "data": [
+      {
+        "text": "告訴你的開發者，",
+        "userDefined": false
+      },
+      {
+        "text": "我對你很滿意",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "68ffa368-5b47-411d-a857-14f36f0fba96",
+    "data": [
+      {
+        "text": "告訴你的開發人員",
+        "userDefined": false
+      },
+      {
+        "text": "很難讓你明白我在說什麽",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "44c28e3b-de89-4a99-9c2d-5dd5f2e01f9a",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "你需要更好的了解我說什麽",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "af9a6ddd-bf77-4696-9a63-84a618911241",
+    "data": [
+      {
+        "text": "告訴你的開發人員",
+        "userDefined": false
+      },
+      {
+        "text": "他們做更好的工作",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1e47326d-6f1b-409f-92d8-b5200feefbea",
+    "data": [
+      {
+        "text": "我對你的開發者有反饋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b200717c-b33f-483f-80f7-3d4c0170cc42",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "我愛你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "69791ff8-8b59-4dc8-91c5-d7c81d23e9fe",
+    "data": [
+      {
+        "text": "告訴你的創作者",
+        "userDefined": false
+      },
+      {
+        "text": "該應用程序是真棒",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "18af9f3b-7e4f-4254-aae8-a0c127bf0759",
+    "data": [
+      {
+        "text": "告訴你的創作者",
+        "userDefined": false
+      },
+      {
+        "text": "我想要退款",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "dbaa7cdf-27f6-4d76-9c72-fb35d5c8c5c1",
+    "data": [
+      {
+        "text": "我想給你反饋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1ed31a07-d2c7-48db-97ff-5605b46415d2",
+    "data": [
+      {
+        "text": "告訴你的開發者",
+        "userDefined": false
+      },
+      {
+        "text": "你很討厭",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "bceb50eb-cbff-47f3-b686-6b006f6a0ee4",
+    "data": [
+      {
+        "text": "告訴你的開發人員",
+        "userDefined": false
+      },
+      {
+        "text": "我喜歡你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "1378875b-e48f-466d-a5db-da6753eb9ce8",
+    "data": [
+      {
+        "text": "告訴你的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "eade7731-0a9c-402f-b111-eaad48e54e34",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne fonctionne pas correctement",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6d24c983-88dc-4634-ad64-61d4f567cda4",
+    "data": [
+      {
+        "text": "et que ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne marche pas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b14b081f-da64-40b9-bd69-12d1a91dcfb9",
+    "data": [
+      {
+        "text": "ajoute que ",
+        "userDefined": false
+      },
+      {
+        "text": "je n\u0027aime pas les avatars",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1b54b199-bd29-4dc7-9037-be94bff29f35",
+    "data": [
+      {
+        "text": "et j\u0027ai des problèmes niveau ",
+        "userDefined": false
+      },
+      {
+        "text": "microphone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "36485511-02ad-4638-bed3-ed9a376ce30d",
+    "data": [
+      {
+        "text": "et que j\u0027ai des soucis avec ",
+        "userDefined": false
+      },
+      {
+        "text": "des avatars",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bf4c75af-b0f1-4ca1-9a98-46fa797f15c3",
+    "data": [
+      {
+        "text": "et ajoute que ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro ne fonctionne pas du tout",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b1f5c3a0-5950-4b42-852b-63b06f091495",
+    "data": [
+      {
+        "text": "et qu\u0027il y a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " problème avec ",
+        "userDefined": false
+      },
+      {
+        "text": "le micro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ef6f76b2-52b3-40a7-8978-cc0957fb6839",
+    "data": [
+      {
+        "text": "et",
+        "userDefined": false
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027ai un problème",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

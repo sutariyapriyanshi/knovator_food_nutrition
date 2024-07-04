@@ -1,0 +1,262 @@
+[
+  {
+    "id": "17976d77-9ea6-4830-9146-44eb7b885ad2",
+    "data": [
+      {
+        "text": "у тебя есть аккаунт в ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттер",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e9db6bc7-c01b-4ab5-83a4-df214504d0e5",
+    "data": [
+      {
+        "text": "у тебя есть страничка в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбуке",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "aee1988c-1567-4fec-bc64-df6121256a3a",
+    "data": [
+      {
+        "text": "твоя страница в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f1167e75-f005-4740-98fc-a9c60c1ae397",
+    "data": [
+      {
+        "text": "твой ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттер",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6ec38e99-c5e7-4548-86f8-7455e38c68ee",
+    "data": [
+      {
+        "text": "твоя страница на ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a557241-2536-430a-8b53-f93c83dc04b4",
+    "data": [
+      {
+        "text": "где найти твою страницу в ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбуке",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3dc21cc6-ee92-47fe-baf0-3ce9a89d3e88",
+    "data": [
+      {
+        "text": "ты есть в социальных сетях",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1de59352-8ae8-4486-9e74-6f489627cf4b",
+    "data": [
+      {
+        "text": "ты пользуешься ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграмом",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5bca12bc-5f1c-41ed-92c9-223d971a08fb",
+    "data": [
+      {
+        "text": "ты есть в ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттере",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "73127f7f-f789-491f-b417-318b8b0e327f",
+    "data": [
+      {
+        "text": "есть ли у тебя аккаунт в ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграм",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "24412f29-3aea-45bf-a32d-bb2134c8a9d4",
+    "data": [
+      {
+        "text": "открой страничку ",
+        "userDefined": false
+      },
+      {
+        "text": "Фейсбук",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b95cac0b-646d-41da-be0f-7d2955a3e89c",
+    "data": [
+      {
+        "text": "я хочу найти твой ",
+        "userDefined": false
+      },
+      {
+        "text": "Инстаграм",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "25eb8dc9-b4ec-413f-8bd5-02a117a25161",
+    "data": [
+      {
+        "text": "покажи страничку в ",
+        "userDefined": false
+      },
+      {
+        "text": "Твиттере",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0c640695-9b48-4447-b54f-63cf9538bf1e",
+    "data": [
+      {
+        "text": "ты есть во ",
+        "userDefined": false
+      },
+      {
+        "text": "Вконтакте",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

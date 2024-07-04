@@ -1,0 +1,132 @@
+[
+  {
+    "id": "27259855-fef0-46a7-8244-fb593752ca3d",
+    "data": [
+      {
+        "text": "あなたの会社では何を作成していますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1a32b62d-033b-4184-9c1e-a29a7df9d5db",
+    "data": [
+      {
+        "text": "あなたの会社で最も売れている商品は何ですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "95d20533-8477-4c76-a836-9ca4ecb13953",
+    "data": [
+      {
+        "text": "あなたの会社では他にもアプリを扱っていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9ef4f9a9-d018-4447-a869-184193490322",
+    "data": [
+      {
+        "text": "デベロッパーは他に何かしていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "614b2ca5-6db8-40e3-882d-3ed9d744551c",
+    "data": [
+      {
+        "text": "あなたの会社では他にも商品を扱っていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9f04d876-9a62-4164-96c7-5c339bc4dad6",
+    "data": [
+      {
+        "text": "あなたの会社では何を開発していますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f72bb930-c589-4006-af5a-e19a7507edba",
+    "data": [
+      {
+        "text": "デベロッパーは他に何をしていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1be383ab-70e5-4230-93a1-ba9ab0fcbe6d",
+    "data": [
+      {
+        "text": "デベロッパーは何か作成したことがありますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "67763c64-af16-492e-a682-89075b4b5f72",
+    "data": [
+      {
+        "text": "デベロッパーは何をしていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "148e2fe7-7459-4c53-83bf-538c5d03312a",
+    "data": [
+      {
+        "text": "あなたの会社では他に何か扱っていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "e57540cc-4a6d-46dd-8fb0-e1a9f5e5de17",
+    "data": [
+      {
+        "text": "und ",
+        "userDefined": false
+      },
+      {
+        "text": "die App funktioniert auch nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1aa0c8a6-34e8-4b4a-9b41-5eaa90254db2",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " die ",
+        "userDefined": false
+      },
+      {
+        "text": "App geht nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3a0b8326-515b-4e06-a68a-707e40895716",
+    "data": [
+      {
+        "text": "und die ",
+        "userDefined": false
+      },
+      {
+        "text": "App geht auch nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "542e9f90-01ca-4041-ad28-7bf5a6ae0a30",
+    "data": [
+      {
+        "text": "und ",
+        "userDefined": false
+      },
+      {
+        "text": "das Video läuft nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c72b92a0-4522-435b-92f6-30721aed5fe5",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " dass ",
+        "userDefined": false
+      },
+      {
+        "text": "Video funktioniert nicht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6f520b73-305a-4905-b16a-d1616372d60e",
+    "data": [
+      {
+        "text": "und ",
+        "userDefined": false
+      },
+      {
+        "text": "ich habe ein Problem",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

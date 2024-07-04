@@ -1,0 +1,127 @@
+[
+  {
+    "id": "fe6236e8-104b-4783-817a-dab2825bd476",
+    "data": [
+      {
+        "text": "non ton email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bd058deb-0dff-42ec-9aef-3e0a2c430209",
+    "data": [
+      {
+        "text": "leur email aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e42a6d7d-dfac-40e6-89f8-99720aae3598",
+    "data": [
+      {
+        "text": "et",
+        "userDefined": false
+      },
+      {
+        "text": " leur adresse ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "eeb844bb-bf5e-413e-a30e-f803889b2ec4",
+    "data": [
+      {
+        "text": "et l\u0027adresse mail aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4510b823-e38f-4395-8683-93f7725e1bf2",
+    "data": [
+      {
+        "text": "maintenant leur adresse email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4750f216-e0fe-49af-a74a-0fd94d9d9e62",
+    "data": [
+      {
+        "text": "et leur email s\u0027il te plaît",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f2f47bd3-320b-4d5c-a13c-1f49945e977e",
+    "data": [
+      {
+        "text": "adresse mail maintenant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "11a0c9ee-f655-443d-861e-cfc368a66e6e",
+    "data": [
+      {
+        "text": "et leurs mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f009d091-6d65-431f-89f0-f2f99c8fa04c",
+    "data": [
+      {
+        "text": "maintenant leur email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

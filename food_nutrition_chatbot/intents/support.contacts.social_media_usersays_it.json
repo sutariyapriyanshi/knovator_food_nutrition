@@ -1,0 +1,143 @@
+[
+  {
+    "id": "44a4bd0d-b294-4407-be81-0b694daee61d",
+    "data": [
+      {
+        "text": "sei sui social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2e7cc8b8-4c9f-47d0-a87a-0125d8260d45",
+    "data": [
+      {
+        "text": "le tue pagine social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a89c72c0-0501-4b05-9789-63ba0309fade",
+    "data": [
+      {
+        "text": "qual è la tua pagina ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e3f421bb-be8c-407c-a10f-87f9526e31b1",
+    "data": [
+      {
+        "text": "sei su ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e4400f74-69b8-4411-9bfa-401b729d3a97",
+    "data": [
+      {
+        "text": "i tuoi social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "550168d3-0992-4db9-860e-ed3183264354",
+    "data": [
+      {
+        "text": "hai una pagina sui social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94c7b099-ea55-41eb-a971-16d3da3596f4",
+    "data": [
+      {
+        "text": "hai un account ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "fff893a8-5a49-41ca-a353-e69b40040e26",
+    "data": [
+      {
+        "text": "i tuoi social network",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e176bbdc-9c05-4581-a91d-99882f3103b3",
+    "data": [
+      {
+        "text": "ma sei su ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "48a74eb6-e8d6-4521-bdc0-a208cb13697c",
+    "data": [
+      {
+        "text": "现在还",
+        "userDefined": false
+      },
+      {
+        "text": "很难让他了解我说的话",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "c9313db0-32c2-4e3f-8e81-5b26394206db",
+    "data": [
+      {
+        "text": "并",
+        "userDefined": false
+      },
+      {
+        "text": "我有问题",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "a07a6759-7b58-4d47-9324-bb99c7e50f8f",
+    "data": [
+      {
+        "text": "现在还一个问题",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "c4040146-ff35-432a-936c-8a62f20e31fa",
+    "data": [
+      {
+        "text": "并且",
+        "userDefined": false
+      },
+      {
+        "text": "麦克风故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "7b887e3e-f4b4-4269-a0ce-60bd8c9fd609",
+    "data": [
+      {
+        "text": "关",
+        "userDefined": true
+      },
+      {
+        "text": "于",
+        "userDefined": false
+      },
+      {
+        "text": "麦克风故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "b45c08a9-f595-4941-80fa-7ce6d9ded8c2",
+    "data": [
+      {
+        "text": "并",
+        "userDefined": false
+      },
+      {
+        "text": "麦克风故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "09ff5199-7272-469f-b4a9-5e966766f5e1",
+    "data": [
+      {
+        "text": "还",
+        "userDefined": false
+      },
+      {
+        "text": "我爱你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "22540ff9-34ec-4e9c-b2d1-1354db05b7be",
+    "data": [
+      {
+        "text": "现在",
+        "userDefined": false
+      },
+      {
+        "text": "语音识别也不准确",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  }
+]

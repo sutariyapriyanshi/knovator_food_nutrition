@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a07acbab-f4c8-45ab-9d89-927105787c4c",
+    "data": [
+      {
+        "text": "並且",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "830425e4-8c24-4459-8aa6-dba6c638fe0e",
+    "data": [
+      {
+        "text": "並",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "1869c4d5-52f2-4634-b2f2-ae6bc02b1aa2",
+    "data": [
+      {
+        "text": "還",
+        "userDefined": false
+      },
+      {
+        "text": "我愛你",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "c65645ef-9f3c-4d24-b548-bf422e137da3",
+    "data": [
+      {
+        "text": "現在還一個問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "2ddbd2c8-02d5-4422-a652-3d6509672eda",
+    "data": [
+      {
+        "text": "並",
+        "userDefined": false
+      },
+      {
+        "text": "我有問題",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "348e23fa-7648-448a-a68a-eb460dac726e",
+    "data": [
+      {
+        "text": "現在還",
+        "userDefined": false
+      },
+      {
+        "text": "很難讓他了解我說的話",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "f409171e-299e-482d-9eac-eb0e26d6d14e",
+    "data": [
+      {
+        "text": "現在",
+        "userDefined": false
+      },
+      {
+        "text": "語音識別也不准確",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "a7fbc722-35ee-43bd-b3ea-f92414f70ad1",
+    "data": [
+      {
+        "text": "關",
+        "userDefined": true
+      },
+      {
+        "text": "于",
+        "userDefined": false
+      },
+      {
+        "text": "麥克風故障",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  }
+]

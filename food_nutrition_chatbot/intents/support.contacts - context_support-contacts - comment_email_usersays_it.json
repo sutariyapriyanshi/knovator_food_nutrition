@@ -1,0 +1,106 @@
+[
+  {
+    "id": "15c0319a-b104-4c6f-b6f4-694d23063a40",
+    "data": [
+      {
+        "text": "ora la mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "92848dad-a76c-45b9-a924-4baf6ac8342f",
+    "data": [
+      {
+        "text": "sai anche l\u0027indirizzo email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "42ad6f95-dd3d-4bf0-ae34-56b7f6e12606",
+    "data": [
+      {
+        "text": "ora la loro email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4ac06ae2-e617-4ebf-b7ba-de2ff557689a",
+    "data": [
+      {
+        "text": "posso scrivere anche una mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "530f5376-761f-4087-bda9-adf2c64f16de",
+    "data": [
+      {
+        "text": "posso contattarli anche via mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b4a88e2-0f5b-4438-ba15-34442838f49f",
+    "data": [
+      {
+        "text": "ora mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c843fced-3f0d-4f03-8b49-fac5e108d55c",
+    "data": [
+      {
+        "text": "ora la loro mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6ba72464-9695-4bc3-afa6-67a5d1d38c38",
+    "data": [
+      {
+        "text": "ho bisogno anche della mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

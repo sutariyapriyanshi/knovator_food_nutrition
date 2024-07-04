@@ -1,0 +1,183 @@
+[
+  {
+    "id": "80d74491-7689-4e9d-a2f1-49a0d1800bd4",
+    "data": [
+      {
+        "text": "ich möchte deinem Entwickler etwas sagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b54e0bfc-1e3e-404a-bdde-e9c94e88fc0c",
+    "data": [
+      {
+        "text": "Nachricht für die Entwickler ",
+        "userDefined": false
+      },
+      {
+        "text": "die app ist schlecht",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bd925e6a-9c90-4e6f-b97e-e54f483443c8",
+    "data": [
+      {
+        "text": "sende eine Nachricht ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "userDefined": false
+      },
+      {
+        "text": " deinen Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "62480fc0-36da-4e28-87f3-eea4d0fa024c",
+    "data": [
+      {
+        "text": "sende Feedback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5dc6d8f7-85ef-49aa-8725-0628de80d828",
+    "data": [
+      {
+        "text": "ich möchte deinem Entwickler eine Nachricht schreiben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3ca9bcbb-d2d2-458c-a48d-c890661181d3",
+    "data": [
+      {
+        "text": "ich habe eine Nachricht für deinen Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aa5ddfc2-173a-432b-8afd-6a766c6bafb2",
+    "data": [
+      {
+        "text": "sag deinem Entwickler dass ",
+        "userDefined": false
+      },
+      {
+        "text": "die App super ist",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fef3f20c-9235-4cff-9882-7a64041c3394",
+    "data": [
+      {
+        "text": "erzähl deinem Entwickler dass ",
+        "userDefined": false
+      },
+      {
+        "text": "ich dich gut finde",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "228cb4ef-6f22-4f7d-80b3-18440959f1ae",
+    "data": [
+      {
+        "text": "Nachricht an die Entwickler ",
+        "userDefined": false
+      },
+      {
+        "text": "die App ist toll",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c946a0ca-2bdd-42c1-9fda-66663a53ebe1",
+    "data": [
+      {
+        "text": "du bist cool",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " Nachricht an die Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d9a9d9f0-6afb-4d49-beca-05c0253e61e6",
+    "data": [
+      {
+        "text": "seine Kontaktaufnahme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

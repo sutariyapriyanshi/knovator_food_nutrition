@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0ee99edc-83be-4a62-b8a6-a55c2d43a8a4",
+    "data": [
+      {
+        "text": "e agora o email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "e70b4c9c-3bef-409b-8783-12488de24b40",
+    "data": [
+      {
+        "text": "agora o email deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "53a34d4c-cff8-4dbf-b9e3-d35ca0632ec3",
+    "data": [
+      {
+        "text": "um email também",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "b01787e1-3787-4b88-854b-41de9109b659",
+    "data": [
+      {
+        "text": "e email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "fdacddab-4315-4104-9489-b1e4345b81fd",
+    "data": [
+      {
+        "text": "e o endereço de email deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "ab7cd49d-f70a-4993-b024-37ad04dab23e",
+    "data": [
+      {
+        "text": "sabe qual é o endereço de email deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "d287b808-949c-4455-a585-10ed2eab9a5d",
+    "data": [
+      {
+        "text": "e o email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "83f1f171-7549-4e7f-b0e5-af7602233398",
+    "data": [
+      {
+        "text": "e o email deles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  }
+]

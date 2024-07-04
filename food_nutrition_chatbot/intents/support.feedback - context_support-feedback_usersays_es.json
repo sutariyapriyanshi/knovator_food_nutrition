@@ -1,0 +1,105 @@
+[
+  {
+    "id": "56b8a078-78d7-435b-b8ac-a3569cd62cca",
+    "data": [
+      {
+        "text": "además dígales que ",
+        "userDefined": false
+      },
+      {
+        "text": "el avatar me gusta mucho",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "73077b4f-5568-4277-ba86-1516a98be0dd",
+    "data": [
+      {
+        "text": "y que ",
+        "userDefined": false
+      },
+      {
+        "text": "quiero la versión premium",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8c58f879-6eb5-42b7-9ef3-bb79e0ec991b",
+    "data": [
+      {
+        "text": "además ",
+        "userDefined": false
+      },
+      {
+        "text": "hay que mejorar unas funciones",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "67354af5-ce98-4721-bd52-b9d053c959d6",
+    "data": [
+      {
+        "text": "y que ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo un problema",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7c4608bc-0023-4d62-80ff-ad135910254e",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "otra",
+        "userDefined": true
+      },
+      {
+        "text": " cosa que quería comentar es que ",
+        "userDefined": false
+      },
+      {
+        "text": "funciona muy bien",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

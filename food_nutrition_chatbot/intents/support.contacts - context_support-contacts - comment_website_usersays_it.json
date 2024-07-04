@@ -1,0 +1,106 @@
+[
+  {
+    "id": "f555e592-492f-4052-9d35-b2ccdeb0649f",
+    "data": [
+      {
+        "text": "e il tuo sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "96258fdc-83c0-4693-ad4d-b6280c665455",
+    "data": [
+      {
+        "text": "mostra il tuo sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7da6060b-b38f-47fa-a06a-d8195aa35689",
+    "data": [
+      {
+        "text": "ha anche un sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "950f3d77-0865-4370-951b-c50b9321a904",
+    "data": [
+      {
+        "text": "e la tua pagina web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6c6df581-cc22-4dcf-807c-5b7357ea47aa",
+    "data": [
+      {
+        "text": "hanno anche il sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1dd8a260-590f-4a32-8c1f-956d6d20adde",
+    "data": [
+      {
+        "text": "anche il sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e56c9615-d0f9-4657-8b34-cba420b10741",
+    "data": [
+      {
+        "text": "anche il tuo sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "496a5f30-eaa1-45c4-b092-cbcb5ad9af2c",
+    "data": [
+      {
+        "text": "mostrami il tuo sito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

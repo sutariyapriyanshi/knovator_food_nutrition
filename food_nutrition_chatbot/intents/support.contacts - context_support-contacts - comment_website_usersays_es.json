@@ -1,0 +1,149 @@
+[
+  {
+    "id": "48a926a6-180d-427c-9612-8fa7c155d390",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sitio",
+        "userDefined": true
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8dcb1b4d-1d22-4a04-8431-75c4056833f4",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": true
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bc152dd3-7255-453d-a0e8-451acf0dee11",
+    "data": [
+      {
+        "text": "abre su sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0e6be93f-16dc-4899-a915-65b173a25aab",
+    "data": [
+      {
+        "text": "y cuál es su ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": false
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "20fd84df-53c6-4d0e-86b6-e6bfaf8e5b5f",
+    "data": [
+      {
+        "text": "dime si tienen ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3f6081f4-c113-4fbe-84ca-47418d81434c",
+    "data": [
+      {
+        "text": "tienen ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "userDefined": false
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "956bce0b-3ab5-4d03-9ccc-02d8c53e9fe6",
+    "data": [
+      {
+        "text": "quisiera acceder a su sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

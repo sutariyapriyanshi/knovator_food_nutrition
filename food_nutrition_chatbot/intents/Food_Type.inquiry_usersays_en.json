@@ -1,0 +1,71 @@
+[
+  {
+    "id": "0c33ec08-9846-4060-bebe-1146b9be6755",
+    "data": [
+      {
+        "text": "What category does ",
+        "userDefined": false
+      },
+      {
+        "text": "bell pepper",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": " belong to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "041a2b80-9c30-4f7a-8793-909f56ae7e24",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "asparagus",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": " a vegetable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c283ac58-c89a-4a06-8293-177cb783b8c1",
+    "data": [
+      {
+        "text": "What type of food is ",
+        "userDefined": false
+      },
+      {
+        "text": "broccoli",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

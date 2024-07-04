@@ -1,0 +1,211 @@
+[
+  {
+    "id": "a6b8ae44-cc5a-41ed-9cbf-459134bfbe14",
+    "data": [
+      {
+        "text": "fale para os seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu amo você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7fe686c-0984-4f5d-bc18-3915cb4c8bab",
+    "data": [
+      {
+        "text": "diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu odeio você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "751f03b4-72f9-4c60-bea6-2bfa31059e1a",
+    "data": [
+      {
+        "text": "envie uma mensagem para seus criadores ",
+        "userDefined": false
+      },
+      {
+        "text": "o app é incrível",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "369dd7a4-d40a-4b11-b1e1-6dfc85606a04",
+    "data": [
+      {
+        "text": "diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu amo você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53363a2e-ac37-4644-ad7c-daf8cbe0bc51",
+    "data": [
+      {
+        "text": "eu amo você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " diga isso aos seus desenvolvedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7aeadaa-88a4-4e82-b7da-276cb9733a69",
+    "data": [
+      {
+        "text": "diga ao seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu amo você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7d94d18-dfd5-4ddc-ba42-6968b5f30c93",
+    "data": [
+      {
+        "text": "diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "você é igual à minha mãe",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6bc2806-1124-4477-9384-ac25a706cb45",
+    "data": [
+      {
+        "text": "diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu gosto de você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c549bd89-4a47-4c5d-9b1a-d33f67b25310",
+    "data": [
+      {
+        "text": "diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "não estão satisfeito",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8081fc7-edbd-467c-b4d4-448c5e7a4efe",
+    "data": [
+      {
+        "text": "diga aos seus criadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "quero um reembolso",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2c182cd-6bbf-4727-b5e1-567cd7a2cf08",
+    "data": [
+      {
+        "text": "quero que você diga aos seus desenvolvedores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu gosto de você",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

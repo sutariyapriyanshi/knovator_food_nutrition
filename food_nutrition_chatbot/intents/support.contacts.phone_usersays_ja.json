@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1f1ded2e-2c1b-44f6-bb0d-edf352de1165",
+    "data": [
+      {
+        "text": "デベロッパーに電話をかけてもいいですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "28cdc51f-87d8-412b-86b7-845dbd19b852",
+    "data": [
+      {
+        "text": "開発者と話がしたいので、電話番号を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "eacb79fe-50e4-4212-843c-60da580dcec8",
+    "data": [
+      {
+        "text": "デベロッパーの電話番号が必要です",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f2b185c3-0cf0-47a0-b9a1-db9fa0955253",
+    "data": [
+      {
+        "text": "デベロッパーと連絡をとりたいので、電話番号を教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "248bc6dd-5e7e-43eb-ab8c-27541ba428be",
+    "data": [
+      {
+        "text": "デベロッパーに電話で連絡をとることはできますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "fdf14c90-9121-4f16-a566-bb32b03ef25b",
+    "data": [
+      {
+        "text": "開発者の電話場合を知らせてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c1d7209c-8fa3-4355-8be0-7bf9f14906ee",
+    "data": [
+      {
+        "text": "デベロッパーの電話番号を教えていただけますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "84819138-43ee-458f-8b44-b1d2ce91e9da",
+    "data": [
+      {
+        "text": "デベロッパーの電話番号",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8598963b-d41a-40a1-a262-2665a9a24afb",
+    "data": [
+      {
+        "text": "開発者と電話で話がしたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3c3653e8-cdd3-4c49-95a4-6a9e9d43ffb7",
+    "data": [
+      {
+        "text": "デベロッパーの電話番号を教えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "70c6c97d-b521-48d8-a482-692f0a88cab1",
+    "data": [
+      {
+        "text": "also that ",
+        "userDefined": false
+      },
+      {
+        "text": "there are some problems",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3450b51-7689-447f-879d-b225857e90bd",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "the app crushes all the time",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a21b88-ef33-469b-8a8f-9eefb1b1de8a",
+    "data": [
+      {
+        "text": "also that ",
+        "userDefined": false
+      },
+      {
+        "text": "I have a problem",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "762ca689-eaaa-44b5-afe7-0ef333e3a278",
+    "data": [
+      {
+        "text": "please add that ",
+        "userDefined": false
+      },
+      {
+        "text": "I don\u0027t like it",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0983f6b7-7ccf-4a6f-aace-0255f1aac4d8",
+    "data": [
+      {
+        "text": "and that ",
+        "userDefined": false
+      },
+      {
+        "text": "mic is not working",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "325626c2-2767-4fe3-8918-36222cc2defe",
+    "data": [
+      {
+        "text": "also that ",
+        "userDefined": false
+      },
+      {
+        "text": "the mic does not work",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2aef82fc-091e-4331-ba46-3083fb24af16",
+    "data": [
+      {
+        "text": "also ",
+        "userDefined": false
+      },
+      {
+        "text": "voice recognition is not accurate",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d171f3f-ce15-4fdb-b826-eb6701c6149f",
+    "data": [
+      {
+        "text": "and add that ",
+        "userDefined": false
+      },
+      {
+        "text": "the mic works bad",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bdec751-b2c1-45c2-a745-1354072ca571",
+    "data": [
+      {
+        "text": "and that ",
+        "userDefined": false
+      },
+      {
+        "text": "there is a mic  problem",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

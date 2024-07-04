@@ -1,0 +1,90 @@
+[
+  {
+    "id": "e7ee8e24-ac56-4ab2-b691-ea7f7b1e0284",
+    "data": [
+      {
+        "text": "y su correo electrónico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60eb9ec1-d3b1-49df-94ea-3ab5d2a421c8",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "correo",
+        "userDefined": true
+      },
+      {
+        "text": " electrónico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c885b6b3-723d-4b8a-9066-9ecaf9aa8f47",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ef6f29ef-731d-4544-bd76-ae8b6c850ef1",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "userDefined": true
+      },
+      {
+        "text": " dirección de ",
+        "userDefined": false
+      },
+      {
+        "text": "correo",
+        "userDefined": true
+      },
+      {
+        "text": " electrónico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "05f67423-e2c0-4776-b415-f8cfe9a690c4",
+    "data": [
+      {
+        "text": "e que ",
+        "userDefined": false
+      },
+      {
+        "text": "há um problema com o microfone",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "81135592-25d7-4354-a6b5-68df91438951",
+    "data": [
+      {
+        "text": "e também que ",
+        "userDefined": false
+      },
+      {
+        "text": "o reconhecimento de voz não é preciso",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4797c5eb-9ab6-4a6d-ac38-ed79761be8a1",
+    "data": [
+      {
+        "text": "também ",
+        "userDefined": false
+      },
+      {
+        "text": "há alguns problemas",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "603cc58c-15ba-4ea9-8ce0-48a3e64d88df",
+    "data": [
+      {
+        "text": "e também que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu tenho um problema",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc9956b8-3511-4a90-8cae-8795d23193f4",
+    "data": [
+      {
+        "text": "e também que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone não funciona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4b302f2-4e57-47ed-832e-629507c80a0b",
+    "data": [
+      {
+        "text": "e que ",
+        "userDefined": false
+      },
+      {
+        "text": "o app falha o tempo todo",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40d51b5b-7754-41f8-b5d9-7ac6332323b3",
+    "data": [
+      {
+        "text": "acrescente que ",
+        "userDefined": false
+      },
+      {
+        "text": "eu não gosto disso",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f340e1d-1d7c-4890-9c8f-62efec27e5f0",
+    "data": [
+      {
+        "text": "e que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone não está funcionando",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a9167090-4501-4645-a719-b54bcad486c3",
+    "data": [
+      {
+        "text": "e acrescente que ",
+        "userDefined": false
+      },
+      {
+        "text": "o microfone funciona mal",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

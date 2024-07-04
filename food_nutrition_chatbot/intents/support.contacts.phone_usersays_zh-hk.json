@@ -1,0 +1,236 @@
+[
+  {
+    "id": "ac3c0e94-23b8-4dea-80ef-4ab443dd5b0d",
+    "data": [
+      {
+        "text": "搜索你的開發者的電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "c349f8b3-a19c-4fbc-a6a9-da6c8462a359",
+    "data": [
+      {
+        "text": "給我你的開發者電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "d4a5f5fc-289d-4e4d-95e9-dc21ea6e7aef",
+    "data": [
+      {
+        "text": "告訴我你的開發者電話號碼我想和他們談談",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "5cf3f69f-fd09-42d3-980d-ef0152064cec",
+    "data": [
+      {
+        "text": "我需要您的開發人員的電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "27ea1e28-e132-454b-b802-fb6133c45a30",
+    "data": [
+      {
+        "text": "搜索您的開發者電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "2ad859ab-3831-4e8d-a0ef-782a35aaf759",
+    "data": [
+      {
+        "text": "我可以打電話給你的開發者嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "0a4eb65a-555b-4395-a805-ee9a46720182",
+    "data": [
+      {
+        "text": "你的開發者的手機號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "229d0601-4748-4c27-9749-54b9d6d65dca",
+    "data": [
+      {
+        "text": "請你能給我開發者的電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "8d873e65-a46c-47ba-a953-bb05e93ef84d",
+    "data": [
+      {
+        "text": "告訴我你的開發者電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "5d6155f2-1a62-44f3-b0aa-7e7c5dbbfb33",
+    "data": [
+      {
+        "text": "請你告訴我你的開發者電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "c70a42bf-2d79-4a78-8744-b650cb9a3894",
+    "data": [
+      {
+        "text": "我要知道你的開發者電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "18922c7b-adfd-4a1c-befa-632b6f119ddb",
+    "data": [
+      {
+        "text": "你的開發者電話號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "e420ea9f-8d6f-4341-bd06-a45cf991b182",
+    "data": [
+      {
+        "text": "告訴我你的開發者號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "7f2f98a5-0378-400e-836a-61a9bb289153",
+    "data": [
+      {
+        "text": "你的開發者電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "d6000607-df3c-409a-bce2-a109fd74a5c1",
+    "data": [
+      {
+        "text": "我先知道你的開發者電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "bbca68d2-fb12-4349-8d8c-f9fd3c74d7cc",
+    "data": [
+      {
+        "text": "你的開發人員的電話",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "089950a9-a6e5-4b72-80a9-9818f81355ba",
+    "data": [
+      {
+        "text": "找到你的開發者號碼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "10826d47-4eb8-4573-816b-c190e9bd2a03",
+    "data": [
+      {
+        "text": "我可以通過電話與開發人員聯系嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3fc68bcd-9a12-4ecf-ad65-65a7e284a5da",
+    "data": [
+      {
+        "text": "ベータ版を表示してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "812cfc94-e628-422e-a0c7-2129b262f52b",
+    "data": [
+      {
+        "text": "ベータ版テストは実施していますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6a5fecb4-432c-429c-99e5-f70371245e2c",
+    "data": [
+      {
+        "text": "ベータ版を提供してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "77eb6675-b960-4a37-8909-2c6736449a5f",
+    "data": [
+      {
+        "text": "ベータ版アプリはどこで入手できますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "754cbe73-3fc2-49ab-892c-aeb685b4089d",
+    "data": [
+      {
+        "text": "ベータ版はありますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "949205c3-87e3-440c-8863-d15618e8132d",
+    "data": [
+      {
+        "text": "ベータ版を入手したいのですが",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "580daf55-8533-40df-bd2f-49e22d28e13e",
+    "data": [
+      {
+        "text": "ベータ版テストに参加したいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9e8c0f4d-8556-4568-88d6-51dd232f92b5",
+    "data": [
+      {
+        "text": "ベータ版のテストグループにはどうしたら参加できますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "87f42158-9755-41a7-a1e6-4d89c1a46994",
+    "data": [
+      {
+        "text": "ベータ版を入手してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7ede46fc-295b-4c01-ac0f-246e0f2355c8",
+    "data": [
+      {
+        "text": "ベータ版テストに加わりたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "37c9dee0-c6c4-42c9-b0de-198509b564cb",
+    "data": [
+      {
+        "text": "dis-moi ton numéro de ",
+        "userDefined": false
+      },
+      {
+        "text": "téléphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e185781d-3ea2-46be-9e73-9f553a2ccb26",
+    "data": [
+      {
+        "text": "j\u0027ai besoin du numéro de téléphone de tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6924d927-f19f-4d3e-9c9b-0417823de726",
+    "data": [
+      {
+        "text": "numéro de ",
+        "userDefined": false
+      },
+      {
+        "text": "téléphone",
+        "userDefined": false
+      },
+      {
+        "text": " de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2c088522-34d4-4351-8caa-1e87e19cf898",
+    "data": [
+      {
+        "text": "est-ce que tes créateurs ont ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " numéro téléphonique",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4b7d88d8-8794-4b1c-b7be-be8616a19d6b",
+    "data": [
+      {
+        "text": "puis-je téléphoner à tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f251e1c0-f935-40b7-a6ae-fdb7cfaaddd8",
+    "data": [
+      {
+        "text": "recherche le numéro de téléphone de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d91bd329-9b6f-49fa-90eb-ec88c12252f7",
+    "data": [
+      {
+        "text": "je voudrais savoir le numéro de téléphone de ton entreprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f38c0460-cca5-4d37-a082-985191ab176c",
+    "data": [
+      {
+        "text": "dis-moi le numéro téléphonique de ta compagnie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "266177dd-5a4b-478d-b46d-919e16559547",
+    "data": [
+      {
+        "text": "donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "le",
+        "userDefined": false
+      },
+      {
+        "text": " numéro ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "téléphone",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d34991e8-dec6-49da-a77f-d53a5fdec4d3",
+    "data": [
+      {
+        "text": "pourrais-je passer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " appel à tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5f3239e7-836e-4a96-983e-277e4b0944f8",
+    "data": [
+      {
+        "text": "je voudrais appeler tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4841458b-2567-41eb-b072-780f07603f35",
+    "data": [
+      {
+        "text": "le numéro de ",
+        "userDefined": false
+      },
+      {
+        "text": "téléphone",
+        "userDefined": false
+      },
+      {
+        "text": " de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

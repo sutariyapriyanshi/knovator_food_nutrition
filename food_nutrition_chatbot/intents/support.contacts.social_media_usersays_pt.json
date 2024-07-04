@@ -1,0 +1,205 @@
+[
+  {
+    "id": "0ca2e6f0-8c3c-445c-a3e6-9a5df0c47195",
+    "data": [
+      {
+        "text": "qual é a sua página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "00a7eaf6-a7eb-4830-95e2-d18564a537c8",
+    "data": [
+      {
+        "text": "abra a sua página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "1ba35c23-318d-4dd8-98d3-f1af2afd582b",
+    "data": [
+      {
+        "text": "onde está a sua página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "472c6eec-17b0-4afc-af9e-d1161a8600a6",
+    "data": [
+      {
+        "text": "está no ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "77735b11-ae3d-4616-b1b8-ee097685d931",
+    "data": [
+      {
+        "text": "tem uma conta do ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "d32add27-37ee-4e64-b99d-01b753292a16",
+    "data": [
+      {
+        "text": "tem conta no ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "f22ec739-2d29-4081-9ccc-4b3849a718a0",
+    "data": [
+      {
+        "text": "diga-me as suas redes sociais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "e1bf561a-31e2-4581-8e10-ad99b818e6a0",
+    "data": [
+      {
+        "text": "mostre-me a sua página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "df6c901b-f2b2-4fc1-b23a-95298abc450b",
+    "data": [
+      {
+        "text": "tem uma página do ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "500d9936-dc20-4609-886f-f9bad43f722e",
+    "data": [
+      {
+        "text": "quero visitar o seu ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "ea05350a-ce9f-4af9-bc90-f4adeddb2772",
+    "data": [
+      {
+        "text": "o seu ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  }
+]

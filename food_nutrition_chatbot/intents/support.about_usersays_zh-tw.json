@@ -1,0 +1,266 @@
+[
+  {
+    "id": "549f9abe-9053-4441-a803-3f9467346cb1",
+    "data": [
+      {
+        "text": "給我介紹你公司的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8c503167-fd95-4f5e-8ecf-e55a1be802ac",
+    "data": [
+      {
+        "text": "關于你的開發員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "06695264-2bcd-459e-9457-41fab6f7627e",
+    "data": [
+      {
+        "text": "關于你的開發員消息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "7871508b-0dc8-4434-8d2d-1a3b09269fb0",
+    "data": [
+      {
+        "text": "請你給我介紹你公司的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "2b873e7d-c946-486f-82d5-15335cbdd6ca",
+    "data": [
+      {
+        "text": "你的開發人員創造別的東西嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "23d6bf13-93d0-4921-a498-39e50ee06427",
+    "data": [
+      {
+        "text": "你的公司團隊在做什麽工作",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "139f9f43-0732-47d7-bcef-6ce0aa9c6c95",
+    "data": [
+      {
+        "text": "你的開發者做什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "66881d4e-d8e8-4f54-8786-d358b17b36a5",
+    "data": [
+      {
+        "text": "你的開發員是什麽人",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "75170425-feb5-4473-9da2-711477243ba6",
+    "data": [
+      {
+        "text": "你的開發者有更多的應用程序",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "b05be3ab-e2d4-4e2e-938d-cb7aafdb62fb",
+    "data": [
+      {
+        "text": "開發人員有關的信息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "347b8be4-5b6a-494b-86b8-deb93effdbfe",
+    "data": [
+      {
+        "text": "你的開發員是誰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "30a163b3-fff4-4b08-af5a-52225f6dc2e1",
+    "data": [
+      {
+        "text": "給我介紹你",
+        "userDefined": false
+      },
+      {
+        "text": "的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "4f2ed2a1-fe4b-4fd9-a7b1-bcd6e0887a93",
+    "data": [
+      {
+        "text": "你們公司開發什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "62fe47db-b4d1-483f-afc2-3c368aeda3e6",
+    "data": [
+      {
+        "text": "貴公司是否開發任何其他産品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "7fa0d988-3860-411d-bac0-51e3f6feddd0",
+    "data": [
+      {
+        "text": "貴公司是否有其他産品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f0f8e17e-85e6-4ced-8030-225d8ef7f603",
+    "data": [
+      {
+        "text": "你的開發人員還有什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "8b20fc91-ec09-4a31-8de5-19beb493ee85",
+    "data": [
+      {
+        "text": "我需要了解貴公司的開發人員",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "558506bd-3532-4ea8-8608-af46dc2f7043",
+    "data": [
+      {
+        "text": "貴公司是否有更多的應用程式",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "108f538a-96a1-444b-94e2-6dfa608653d3",
+    "data": [
+      {
+        "text": "你公司最暢銷的産品是什麽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  },
+  {
+    "id": "f247c880-00b1-4559-87fe-795bf1ce44c0",
+    "data": [
+      {
+        "text": "你的開發員消息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-tw",
+    "updated": 0
+  }
+]

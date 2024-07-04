@@ -1,0 +1,186 @@
+[
+  {
+    "id": "c2af2465-548a-4ec0-a220-ca74a9c4c4bd",
+    "data": [
+      {
+        "text": "diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "gosto de si",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "62f2acb6-ea29-4bac-9468-5aedcd64aa10",
+    "data": [
+      {
+        "text": "diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "o adoro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "5bb3e830-9e10-460a-b1b6-9fdfe599fe24",
+    "data": [
+      {
+        "text": "diga aos programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "o adoro",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "f2856436-b9a3-4c74-a359-285d5466ba81",
+    "data": [
+      {
+        "text": "quero que diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "gosto de si",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "668ff018-0ca1-49c0-8fa9-ebe8b2c810b4",
+    "data": [
+      {
+        "text": "mensagem para os seus criadores ",
+        "userDefined": false
+      },
+      {
+        "text": "a aplicação é incrível",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "11162b4d-f08c-429b-85d6-8b84caaeca31",
+    "data": [
+      {
+        "text": "diga aos seus criadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "pretendo um reembolso",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "d2314d9f-3bcf-48b3-a2ba-e523d09aaee9",
+    "data": [
+      {
+        "text": "adoro-o diga-o aos seus programadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "7cf29296-883e-40b1-8d81-8668ec2ce3c8",
+    "data": [
+      {
+        "text": "diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "não estou contente",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "2146213a-8bc1-456d-9bac-c9d6b308738b",
+    "data": [
+      {
+        "text": "diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "é tal e qual a minha mãe",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  },
+  {
+    "id": "0ad3b1fd-a7a5-4783-b5d4-83d308bbdd01",
+    "data": [
+      {
+        "text": "diga aos seus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "o odeio",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt",
+    "updated": 0
+  }
+]

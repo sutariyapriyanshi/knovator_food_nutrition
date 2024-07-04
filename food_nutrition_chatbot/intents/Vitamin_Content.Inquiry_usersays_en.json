@@ -1,0 +1,71 @@
+[
+  {
+    "id": "30ec2a89-5218-49c0-93e7-a4ae20e38bef",
+    "data": [
+      {
+        "text": "What vitamins are in ",
+        "userDefined": false
+      },
+      {
+        "text": "celery",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d1e5be8-e9f4-4425-8bb1-8811db70ada5",
+    "data": [
+      {
+        "text": "Vitamin A in ",
+        "userDefined": false
+      },
+      {
+        "text": "carrots",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57a79f8e-4416-42de-8684-c02de701bd03",
+    "data": [
+      {
+        "text": "How much vitamin C is in ",
+        "userDefined": false
+      },
+      {
+        "text": "broccoli",
+        "meta": "@food_item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

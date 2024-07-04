@@ -1,0 +1,210 @@
+[
+  {
+    "id": "493afc9c-48ef-444d-8982-7d395035b82c",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      },
+      {
+        "text": "ページを見せて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7bc54b6d-dec7-4d7b-a7c2-f788d9b3e7ee",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページはどこにありますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8f6a26de-c516-4b41-baeb-a99ce974a0c1",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "を見てみたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "838460ff-76f3-46e2-9599-d71f0d9c7fef",
+    "data": [
+      {
+        "text": "ツイッター",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "を使っていますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ff424b3e-ce77-4f63-b095-3363ebf14a3e",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "はどんなページですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e7eebb9e-f2cf-4a01-9f8b-b022431c1af8",
+    "data": [
+      {
+        "text": "インスタグラーム",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "アカウントをお持ちですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d31b6ff4-2408-47aa-971f-a50227e56874",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "フェイスブック",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページはありますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a0eb7906-427d-450d-9b44-0894b1be3d3d",
+    "data": [
+      {
+        "text": "あなたの",
+        "userDefined": false
+      },
+      {
+        "text": "FB",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "ページを開いてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "75c58d70-5150-4f61-90d8-09aeedd48d42",
+    "data": [
+      {
+        "text": "ようつべ",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      },
+      {
+        "text": "アカウントがあるの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "27221f4d-f41b-4828-812a-603aacf584ec",
+    "data": [
+      {
+        "text": "あなたのソーシャルメディアを教えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ja",
+    "updated": 0
+  }
+]

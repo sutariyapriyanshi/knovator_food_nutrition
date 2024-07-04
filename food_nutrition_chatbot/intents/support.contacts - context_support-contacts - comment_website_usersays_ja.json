@@ -1,0 +1,132 @@
+[
+  {
+    "id": "e99a0eca-287c-420e-8eee-dc9758d28957",
+    "data": [
+      {
+        "text": "あなたのウェブサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "12d1504b-8064-4942-b1cc-0ff9b658324a",
+    "data": [
+      {
+        "text": "ウェブサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6b7fdea9-e810-4fc5-bb58-f8a89db427da",
+    "data": [
+      {
+        "text": "サイトも同様",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ea4c8961-4bd0-49b0-bccf-c7e0f5e6d885",
+    "data": [
+      {
+        "text": "とあなたのウェブサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e78e5cc1-74ef-4b7a-a32d-3a0c2c1da496",
+    "data": [
+      {
+        "text": "サイトも",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5aa8b05f-4f90-42c0-bd16-bb153c26a175",
+    "data": [
+      {
+        "text": "今のウェブサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4023b720-cb86-4d3c-a764-8adf4f3ede17",
+    "data": [
+      {
+        "text": "あなたのウェブサイトについてはどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6d5b993b-c588-4eb6-8ca9-b29454ee0b7b",
+    "data": [
+      {
+        "text": "あなたのサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a038ba05-27d8-41e8-9e5b-69dd7da488fe",
+    "data": [
+      {
+        "text": "現在のウェブサイト",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f65d490e-e1ee-4c01-ae48-3a44d008b5cf",
+    "data": [
+      {
+        "text": "ウェブサイトもお願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "8672361d-6ed7-47dd-818b-9627553c9048",
+    "data": [
+      {
+        "text": "люблю тебя",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": " так и передай разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ac5e242a-6454-4a2d-b6a8-0e90f0d3af8b",
+    "data": [
+      {
+        "text": "свяжись с разработчиками и скажи им что ",
+        "userDefined": false
+      },
+      {
+        "text": "мне это не нравится",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5960c3bd-2cd5-4fc1-8766-cf67b1774912",
+    "data": [
+      {
+        "text": "отправь команде обратную связь ",
+        "userDefined": false
+      },
+      {
+        "text": "продолжайте в том же духе",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "17ad2fd7-2d1c-42c1-b7f4-def7edf5a80a",
+    "data": [
+      {
+        "text": "сообщение твоим создателям",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c0600525-23f0-4ead-bae9-01bd1da0c5e5",
+    "data": [
+      {
+        "text": "оставь отзыв",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5b09dfb3-1748-491e-82de-d1eb7afe50a0",
+    "data": [
+      {
+        "text": "расскажи своим разработчикам как ",
+        "userDefined": false
+      },
+      {
+        "text": "я люблю тебя",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cc0fe846-bb51-4400-b07a-04b5cb911e87",
+    "data": [
+      {
+        "text": "хочу оставить отзыв",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4a127199-be1b-435c-aa97-d6513c2557e5",
+    "data": [
+      {
+        "text": "скажи своим разработчикам что ",
+        "userDefined": false
+      },
+      {
+        "text": "ты мне нравишься",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "429151e1-0440-4279-981a-8b56bbaaa65f",
+    "data": [
+      {
+        "text": "передай разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4f759d62-2a94-4024-89a2-1d0d1b0d7e3a",
+    "data": [
+      {
+        "text": "свяжись со своими разработчиками",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "67f3b56d-3a29-4f1e-9762-c59d3715cf06",
+    "data": [
+      {
+        "text": "дай знать разработчикам о том что ",
+        "userDefined": false
+      },
+      {
+        "text": "я тебя обожаю",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f5a3623a-5d78-403c-8c3c-1f8c9a19430b",
+    "data": [
+      {
+        "text": "скажи тем кто создал тебя что ",
+        "userDefined": false
+      },
+      {
+        "text": "ты как моя мама",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d39563fd-d59b-4298-a0dd-4bf5447dda39",
+    "data": [
+      {
+        "text": "скажи разработчикам что ",
+        "userDefined": false
+      },
+      {
+        "text": "ты прекрасное создание",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "da905a0c-e4b1-4ea6-96d6-e8058891eb30",
+    "data": [
+      {
+        "text": "напиши отзыв ",
+        "userDefined": false
+      },
+      {
+        "text": "приложение просто чудо",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6e59e497-b0ce-41fd-a129-840adf2e2c78",
+    "data": [
+      {
+        "text": "хочу написать отзыв разработчикам ",
+        "userDefined": false
+      },
+      {
+        "text": "добавьте больше картинок",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "76c929e7-0129-4944-8e60-5dcbf3b2f2a4",
+    "data": [
+      {
+        "text": "сообщение разработчикам ",
+        "userDefined": false
+      },
+      {
+        "text": "приложение просто супер",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8dc38d54-92ad-4bbe-b71a-e9fd46471129",
+    "data": [
+      {
+        "text": "скажи своим создателям",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a1e76cdf-3e7a-4cd8-b7c5-2e7cd518697a",
+    "data": [
+      {
+        "text": "отправь команде обратную связь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e89d8818-5a4d-463f-b803-24657e2a421c",
+    "data": [
+      {
+        "text": "хочу чтобы твои разработчики знали что ",
+        "userDefined": false
+      },
+      {
+        "text": "ты мне очень нравишься",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "95f91949-d276-4b38-90c5-1985f5b1b06b",
+    "data": [
+      {
+        "text": "передай разработчикам что ",
+        "userDefined": false
+      },
+      {
+        "text": "я люблю тебя",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e9cc3136-0039-4a9b-9519-6144907cf019",
+    "data": [
+      {
+        "text": "напиши разработчикам ",
+        "userDefined": false
+      },
+      {
+        "text": "мне нужен ответ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ae1159d3-d0c8-404f-ab71-855ee8226e13",
+    "data": [
+      {
+        "text": "отправь сообщение программистам ",
+        "userDefined": false
+      },
+      {
+        "text": "пожалуйста почините это",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08d62a0a-e68e-4b73-934b-76b0c750d469",
+    "data": [
+      {
+        "text": "передай своим создателям чтобы ",
+        "userDefined": false
+      },
+      {
+        "text": "тебя улучшали",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c251efc5-b4f2-4a7d-90d8-9b1c871ff0ce",
+    "data": [
+      {
+        "text": "у меня есть что сказать твоим разработчикам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6a907584-b80c-40a2-addc-d03dc5f5be6e",
+    "data": [
+      {
+        "text": "передай своим разработчикам что ",
+        "userDefined": false
+      },
+      {
+        "text": "мне нравится это приложение",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  }
+]

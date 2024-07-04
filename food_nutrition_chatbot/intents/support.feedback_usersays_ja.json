@@ -1,0 +1,200 @@
+[
+  {
+    "id": "c6ff2cdb-ff3b-4666-98a3-5b44ee943d32",
+    "data": [
+      {
+        "text": "私はあなたが好きだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "と開発者に伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "02189fc2-d6d0-4c9d-82d4-566bc89fdda8",
+    "data": [
+      {
+        "text": "私が不満に思っている",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "とデベロッパーに伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "0403d6a8-e144-4d88-bee6-ea97ee2e59e0",
+    "data": [
+      {
+        "text": "私が嫌っている",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "とデベロッパーに伝えて下さい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "35e6d703-cf10-4624-8f71-912c7379523b",
+    "data": [
+      {
+        "text": "私はあなたが大好きだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "とデベロッパーに伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6f5bf189-1f0f-4287-9605-60fca42d698d",
+    "data": [
+      {
+        "text": "あなたが大好きだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "ってことをデベロッパーに伝えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e28feaa7-dba6-4ec2-bd09-95dffcd26273",
+    "data": [
+      {
+        "text": "このアプリはすばらしい",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "と作成者にメッセージを伝えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1d6acd08-6bdd-4872-ad9a-c1987e451649",
+    "data": [
+      {
+        "text": "まるでお母さんみたいだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "とデベロッパーに伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "90c5b23c-e85b-4cb0-b19f-be5bb802104c",
+    "data": [
+      {
+        "text": "払い戻しがしたい",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "と作成者に伝えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "b8f14be3-a3f7-45ca-9479-999d712227a7",
+    "data": [
+      {
+        "text": "デベロッパーに",
+        "userDefined": false
+      },
+      {
+        "text": "あなたのことが大好きだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "と伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "638ea48a-60d1-473a-8895-6ed3068280fd",
+    "data": [
+      {
+        "text": "デベロッパーに",
+        "userDefined": false
+      },
+      {
+        "text": "私はあなたのことが大好きだ",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "と伝えてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

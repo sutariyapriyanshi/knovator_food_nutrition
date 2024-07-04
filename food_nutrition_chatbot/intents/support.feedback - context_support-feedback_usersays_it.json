@@ -1,0 +1,78 @@
+[
+  {
+    "id": "3b5f0fc4-1113-4c88-b8ea-2df2fd7246db",
+    "data": [
+      {
+        "text": "e che ",
+        "userDefined": false
+      },
+      {
+        "text": "il microfono non funziona",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "cd7fd512-ae77-42a5-b64d-020aaf28aaf2",
+    "data": [
+      {
+        "text": "aggiungi ",
+        "userDefined": false
+      },
+      {
+        "text": "ciao",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "483f4096-d6dd-453d-9389-bc1c7f968bd7",
+    "data": [
+      {
+        "text": "anche che ",
+        "userDefined": false
+      },
+      {
+        "text": "ho una domanda",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94e4e152-4eec-4cca-b0a9-069bb0bf1913",
+    "data": [
+      {
+        "text": "aggiungi che ",
+        "userDefined": false
+      },
+      {
+        "text": "l\u0027ho visto",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "c778a1da-65e1-4714-9ef6-c5ef57e2aed4",
+    "data": [
+      {
+        "text": "и ещё ",
+        "userDefined": false
+      },
+      {
+        "text": "про звук",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1e2ace38-96da-4f13-9e85-89c9506e6864",
+    "data": [
+      {
+        "text": "и про то что ",
+        "userDefined": false
+      },
+      {
+        "text": "есть проблема с распознаванием",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8b0e3f04-112d-43d9-a109-dd38fec2af91",
+    "data": [
+      {
+        "text": "скажи также что ",
+        "userDefined": false
+      },
+      {
+        "text": "у меня проблема",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ff7a2953-6df0-449c-b2b0-26461530205d",
+    "data": [
+      {
+        "text": "и дополни про ",
+        "userDefined": false
+      },
+      {
+        "text": "микрофон",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2a3da9b7-7e56-44d7-819e-236ead3ddbc7",
+    "data": [
+      {
+        "text": "и что ",
+        "userDefined": false
+      },
+      {
+        "text": "я хотел бы помочь в разработке",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f9b0e995-0fac-4598-8d17-336346673205",
+    "data": [
+      {
+        "text": "добавь что ",
+        "userDefined": false
+      },
+      {
+        "text": "мне это не нравится",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8a271004-d073-4f4f-8a7d-ff5f54c2258d",
+    "data": [
+      {
+        "text": "также скажи что ",
+        "userDefined": false
+      },
+      {
+        "text": "есть ещё проблемы",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2813580e-20f3-4ba8-8807-a89632168d1f",
+    "data": [
+      {
+        "text": "и не забудь сказать также ",
+        "userDefined": false
+      },
+      {
+        "text": "про микрофон",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f388e980-7c52-4cd3-a59a-8e4d6b4efc70",
+    "data": [
+      {
+        "text": "и также ",
+        "userDefined": false
+      },
+      {
+        "text": "про микрофон",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "88f9ed5e-4951-443a-83fc-babfe9ee2771",
+    "data": [
+      {
+        "text": "и ",
+        "userDefined": false
+      },
+      {
+        "text": "приложение всё время вылетает",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "92547bc0-1e45-4c0e-9135-d189890b7e34",
+    "data": [
+      {
+        "text": "напиши также что ",
+        "userDefined": false
+      },
+      {
+        "text": "не работает звук",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b11fee27-0be9-4c75-b794-28451dba9e1a",
+    "data": [
+      {
+        "text": "ещё ",
+        "userDefined": false
+      },
+      {
+        "text": "совсем не работает распознавание",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

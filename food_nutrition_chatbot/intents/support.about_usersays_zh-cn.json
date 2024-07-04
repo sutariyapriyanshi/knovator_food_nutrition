@@ -1,0 +1,266 @@
+[
+  {
+    "id": "133454c3-fc47-42d8-8d49-6ee62017faa0",
+    "data": [
+      {
+        "text": "给我介绍你公司的开发人员",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "24e239bd-7fea-4383-880b-6576795fe19b",
+    "data": [
+      {
+        "text": "你们公司开发什么",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "3a089b29-6ff0-47f1-b847-6a7935852fa4",
+    "data": [
+      {
+        "text": "你公司最畅销的产品是什么",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "2dbda54c-66c0-40d3-a606-901e7fec989b",
+    "data": [
+      {
+        "text": "你的开发员消息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "2af57533-faa3-4284-a0a3-d4d962a7c55b",
+    "data": [
+      {
+        "text": "关于你的开发员消息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "9eee0867-62c2-45a6-be48-41173c9c5e2f",
+    "data": [
+      {
+        "text": "贵公司是否开发任何其他产品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "382f9c20-3720-4c09-92f1-31002fd7dc9f",
+    "data": [
+      {
+        "text": "你的开发人员还有什么",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "69b4b705-fd8c-4f60-b676-05e72bbfc462",
+    "data": [
+      {
+        "text": "你的开发人员创造别的东西吗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "bad1e69b-0db9-4bd6-8a7a-dc288929997f",
+    "data": [
+      {
+        "text": "你的开发员是谁",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "9d75adf1-b5c4-42b7-a987-9cc10e7c21d7",
+    "data": [
+      {
+        "text": "贵公司是否有其他产品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "d369d00a-750a-482c-9ce9-2c5e700df364",
+    "data": [
+      {
+        "text": "你的开发者有更多的应用程序",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "45747cba-c612-4e7d-8f6a-8ce43a9acbbf",
+    "data": [
+      {
+        "text": "你的公司团队在做什么工作",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "2bb9170f-33ea-41a1-a3ec-f27fc6105498",
+    "data": [
+      {
+        "text": "我需要了解贵公司的开发人员",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "83e5e996-7973-4a00-a37d-18610d392af3",
+    "data": [
+      {
+        "text": "贵公司是否有更多的应用程式",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "86d149a8-a211-45ec-9919-bc6f7efe1474",
+    "data": [
+      {
+        "text": "给我介绍你",
+        "userDefined": false
+      },
+      {
+        "text": "的开发人员",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "24e5871d-5787-49e6-835a-a3fead3d03c8",
+    "data": [
+      {
+        "text": "你的开发者做什么",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "8e47eb0e-a40e-4e22-a6bf-68abded25254",
+    "data": [
+      {
+        "text": "请你给我介绍你公司的开发人员",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "58a317cf-33d7-4ec6-85cd-7d233ab75855",
+    "data": [
+      {
+        "text": "关于你的开发员",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "d3cd2788-989f-4ebd-af5f-13c7c1a428c8",
+    "data": [
+      {
+        "text": "开发人员有关的信息",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  },
+  {
+    "id": "29940592-01e3-4229-8510-3d06e2d7a3e7",
+    "data": [
+      {
+        "text": "你的开发员是什么人",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-cn",
+    "updated": 0
+  }
+]

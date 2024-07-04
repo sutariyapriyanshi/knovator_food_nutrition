@@ -1,0 +1,140 @@
+[
+  {
+    "id": "053b6361-716b-4a3a-8fe1-9362023b749c",
+    "data": [
+      {
+        "text": "welche firma hat dich erstellt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "612ef8e2-0cba-4624-a381-abf27f0787ae",
+    "data": [
+      {
+        "text": "wer hat dich gebaut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "60c45b18-b955-429e-b885-e9e0e23eb42d",
+    "data": [
+      {
+        "text": "wer hat dich erstellt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8fcdf3d5-acbe-44c9-830c-a94039509016",
+    "data": [
+      {
+        "text": "erzähl mir von deinen Entwicklern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bf3c51cd-68d6-4517-bbc2-43324f48d6e6",
+    "data": [
+      {
+        "text": "ich möchte über deine Entwickler erfahren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "730e7ad0-3c5b-4536-9b66-0e1679ad25bb",
+    "data": [
+      {
+        "text": "deine Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6a80b8da-4d3c-42f8-bced-590f7d282b9b",
+    "data": [
+      {
+        "text": "sag mir etwas über deine Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "258b1d9e-be79-4541-90ce-646d70a50985",
+    "data": [
+      {
+        "text": "wer ",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "userDefined": false
+      },
+      {
+        "text": " dein Entwickler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7320cca8-8273-4f6d-9ec0-8c0223a87a83",
+    "data": [
+      {
+        "text": "wer hat dich gemacht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "db02022f-2010-4c3b-9363-bfe5d9c0d934",
+    "data": [
+      {
+        "text": "wer hat dich entwickelt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

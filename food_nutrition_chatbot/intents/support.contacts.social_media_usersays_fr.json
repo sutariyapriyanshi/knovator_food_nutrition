@@ -1,0 +1,304 @@
+[
+  {
+    "id": "8a7042dd-c12d-4867-a637-e99dd877eb70",
+    "data": [
+      {
+        "text": "tu",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sur",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e53ce6e4-e241-4be6-be75-4a63ccbe215b",
+    "data": [
+      {
+        "text": "as-tu des pages sur les réseaux sociaux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5cfa0a99-41b0-4efa-887f-d624794803d2",
+    "data": [
+      {
+        "text": "tes réseaux sociaux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "aae17787-16e7-43e5-a3a1-f5b4a14d568f",
+    "data": [
+      {
+        "text": "as-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " compte ",
+        "userDefined": false
+      },
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "472cfd23-8a9a-4478-8ff4-5753bbbd339c",
+    "data": [
+      {
+        "text": "as-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6cf43b90-0bef-41dc-84ae-ee7dab03ad0a",
+    "data": [
+      {
+        "text": "est-ce que ",
+        "userDefined": false
+      },
+      {
+        "text": "tu",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "as",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e7ffd9bb-9b09-4ba7-83de-dec018b6720c",
+    "data": [
+      {
+        "text": "est-ce que ",
+        "userDefined": false
+      },
+      {
+        "text": "tu",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "as",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": true
+      },
+      {
+        "text": " compte ",
+        "userDefined": false
+      },
+      {
+        "text": "twitter",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d215c0a3-1de6-45bc-8fc8-f1177d05ced8",
+    "data": [
+      {
+        "text": "ta page ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2d553eb2-8606-4146-afaf-2d7d53f118bb",
+    "data": [
+      {
+        "text": "as-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "page",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a910d340-321e-47ec-93e2-121f0b284123",
+    "data": [
+      {
+        "text": "es-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "sur",
+        "userDefined": true
+      },
+      {
+        "text": " des réseaux sociaux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9b34b802-b9e3-4346-99e7-0eb74389fdad",
+    "data": [
+      {
+        "text": "as-tu un compte ",
+        "userDefined": false
+      },
+      {
+        "text": "instagram",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d1942ae2-8991-4290-bd17-6b4b3ea86a9a",
+    "data": [
+      {
+        "text": "comment s\u0027appelle ta page ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "meta": "@media",
+        "alias": "media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

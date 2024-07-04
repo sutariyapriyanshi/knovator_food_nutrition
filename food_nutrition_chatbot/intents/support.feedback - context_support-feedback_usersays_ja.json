@@ -1,0 +1,161 @@
+[
+  {
+    "id": "13e8bffd-feec-4972-aeb9-264178e5d14e",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "マイクに問題があります",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5021b693-3653-416f-bc61-468f6ce93dba",
+    "data": [
+      {
+        "text": "問題も起きています",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "cbc8062b-3623-4e57-a90d-b0c501f15bc4",
+    "data": [
+      {
+        "text": "「",
+        "userDefined": false
+      },
+      {
+        "text": "気に入らない",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "」を追加してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1dbeb75d-5f44-4b8e-b165-c66fac121110",
+    "data": [
+      {
+        "text": "アプリがいつもクラッシュします",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "577778e5-cab6-406a-b403-b6cbaabd611d",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "マイクの調子が悪いこと",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      },
+      {
+        "text": "を追加してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "36a8d220-b222-4b94-bb29-d340384f75eb",
+    "data": [
+      {
+        "text": "いくつか問題もあります",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f24a42fb-d737-47ce-b7a4-9d35047e061a",
+    "data": [
+      {
+        "text": "音声認識も正確ではありません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "801292ef-2674-4a79-8477-34652398cc34",
+    "data": [
+      {
+        "text": "また、",
+        "userDefined": false
+      },
+      {
+        "text": "マイクが機能していません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8c4a5d44-fbfd-4514-b660-7f3a6b9d3330",
+    "data": [
+      {
+        "text": "マイクも正しく機能しません",
+        "meta": "@sys.any",
+        "alias": "message",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "917246cb-b212-4908-86a1-eae02a460e92",
+    "data": [
+      {
+        "text": "zeig mir Informationen zu deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b438b6ad-2e7e-464f-9b9f-0847174baf3f",
+    "data": [
+      {
+        "text": "erzähl mir von deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9b73376d-890f-40d3-988a-aabdfd7a729c",
+    "data": [
+      {
+        "text": "zeig mir Informationen über deine Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e5a20b8-af7a-4883-b03f-95eb042af4cf",
+    "data": [
+      {
+        "text": "ich möchte etwas über deine Firma erfahren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5df88dde-614d-417c-a7ff-63bf9a33443b",
+    "data": [
+      {
+        "text": "erzähl mir etwas über deine Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "221ef360-5f84-4e9a-a582-0fe05349e0b7",
+    "data": [
+      {
+        "text": "gib mir Infos zu deiner Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "17e008d8-e3bb-40e8-9ddb-bd181fc8fdc5",
+    "data": [
+      {
+        "text": "mehr Information über deine Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f75448a1-c55b-49d3-a7a8-85ede56a0d52",
+    "data": [
+      {
+        "text": "sag mir etwas über deine Firma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "id": "264d8ef6-61b1-4463-9df2-6ae8c92fef28",
+    "data": [
+      {
+        "text": "j\u0027ai besoin d\u0027envoyer un mail à tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c6ab3b8e-ddb3-4f44-878b-cab07b6a3fba",
+    "data": [
+      {
+        "text": "comment faire pour envoyer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " email à tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cadd6f3a-d3e2-4384-bf36-693d6cea4d98",
+    "data": [
+      {
+        "text": "as-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " adresse mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "eedc34ef-4399-465a-bc11-a568ec7b13dc",
+    "data": [
+      {
+        "text": "donne-moi ton adresse email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "45a48349-747b-436a-bf7f-77932df59582",
+    "data": [
+      {
+        "text": "tes développeurs ont-ils ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " adresse email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "889d3561-0656-4cc8-ad57-7bf43e129276",
+    "data": [
+      {
+        "text": "donne-moi l\u0027adresse email de tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "79212887-1b7a-4465-bcd1-14e2ff8da385",
+    "data": [
+      {
+        "text": "j\u0027ai besoin de contacter tes développeurs par email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b25d4afe-16df-4cc6-806b-e7e5042c3ad2",
+    "data": [
+      {
+        "text": "quelle est l\u0027adresse e-mail de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d0222e5c-e8f0-4571-a1ae-4e640ddcf40d",
+    "data": [
+      {
+        "text": "donne-moi l\u0027adresse email de tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "df7cbe8e-6baa-4866-8f48-154d423f5cb9",
+    "data": [
+      {
+        "text": "dis-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "l",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027adresse ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " tes développeurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5bc08794-d996-4f7e-a601-ae299b96e391",
+    "data": [
+      {
+        "text": "adresse email de tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "907a34ac-5183-473c-9ccc-30d74df3d47d",
+    "data": [
+      {
+        "text": "est-ce que tes concepteurs ont ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " adresse mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4a27fa91-e019-437e-b676-dcbe7bce7db6",
+    "data": [
+      {
+        "text": "pourrais-je envoyer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " message mail à tes concepteurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6d12ddbf-caab-49f8-91dd-7adc6ec9e985",
+    "data": [
+      {
+        "text": "je voudrais envoyer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " courrier électronique à tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6fd07eb6-d5b0-49fb-b3e5-0028a9045ada",
+    "data": [
+      {
+        "text": "l\u0027adresse email de tes créateurs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

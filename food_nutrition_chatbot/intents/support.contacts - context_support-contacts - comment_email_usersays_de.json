@@ -1,0 +1,131 @@
+[
+  {
+    "id": "29448eb5-3e63-43d3-acb4-9945d6024c11",
+    "data": [
+      {
+        "text": "ich brauche auch die E-Mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ca4f370c-e2d4-499d-9887-5130385ee469",
+    "data": [
+      {
+        "text": "kennst ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "userDefined": false
+      },
+      {
+        "text": " ihre Email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2572d664-51ad-4a46-8b11-8183f9ea5f0a",
+    "data": [
+      {
+        "text": "und",
+        "userDefined": false
+      },
+      {
+        "text": " ihre Email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "17a263f9-05eb-4b9a-83af-fe229550d3d4",
+    "data": [
+      {
+        "text": "die E-Mail brauche ich auch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8ea26863-cfc0-4f28-bacb-9c15adc0010f",
+    "data": [
+      {
+        "text": "gib mir bitte auch die E-Mail-Adresse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8f11be70-a7c9-4653-a5f5-9df8ef3b7f50",
+    "data": [
+      {
+        "text": "bitte auch die E-Mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "274979b5-ed0b-4d32-86c8-e0f0ba8c75cc",
+    "data": [
+      {
+        "text": "und die E-Mail-Adresse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "706dae1c-7f38-4001-a776-9523db636789",
+    "data": [
+      {
+        "text": "und auch die E-Mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "afef7c83-132e-4849-ad9e-09b7a7f7b45d",
+    "data": [
+      {
+        "text": "und die E-Mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]
